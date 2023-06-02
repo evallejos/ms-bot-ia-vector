@@ -1,0 +1,4637 @@
+{
+   "config":{
+      "codigo":"BFCON_000",
+      "mensaje":"Ejecucion exitosa",
+      "httpStatus":200
+   },
+   "body":[
+      {
+         "id":13,
+         "valor":"Area Metropolitana",
+         "nombre":"Area Metropolitana",
+         "alias":"Región Metropolitana",
+         "sigla":"RM",
+         "ciudades":[
+            {
+               "id":65100,
+               "nombre":"Buin",
+               "valor":"Buin",
+               "alias":"BUIN",
+               "comunas":[
+                  {
+                     "id":259,
+                     "nombre":"Buin",
+                     "valor":"Buin",
+                     "alias":"BUIN"
+                  },
+                  {
+                     "id":260,
+                     "nombre":"Calera De Tango",
+                     "valor":"Calera De Tango",
+                     "alias":"CALERA DE TANGO"
+                  },
+                  {
+                     "id":261,
+                     "nombre":"Paine",
+                     "valor":"Paine",
+                     "alias":"PAINE"
+                  }
+               ]
+            },
+            {
+               "id":64000,
+               "nombre":"Colina",
+               "valor":"Colina",
+               "alias":"COLINA",
+               "comunas":[
+                  {
+                     "id":262,
+                     "nombre":"Colina",
+                     "valor":"Colina",
+                     "alias":"COLINA"
+                  },
+                  {
+                     "id":263,
+                     "nombre":"Lampa",
+                     "valor":"Lampa",
+                     "alias":"LAMPA"
+                  },
+                  {
+                     "id":264,
+                     "nombre":"Tiltil",
+                     "valor":"Tiltil",
+                     "alias":"TILTIL"
+                  }
+               ]
+            },
+            {
+               "id":66000,
+               "nombre":"Melipilla",
+               "valor":"Melipilla",
+               "alias":"MELIPILLA",
+               "comunas":[
+                  {
+                     "id":265,
+                     "nombre":"Alhue",
+                     "valor":"Alhue",
+                     "alias":"ALHUE"
+                  },
+                  {
+                     "id":266,
+                     "nombre":"Curacavi",
+                     "valor":"Curacavi",
+                     "alias":"CURACAVI"
+                  },
+                  {
+                     "id":267,
+                     "nombre":"Maria Pinto",
+                     "valor":"Maria Pinto",
+                     "alias":"MARIA PINTO"
+                  },
+                  {
+                     "id":268,
+                     "nombre":"Melipilla",
+                     "valor":"Melipilla",
+                     "alias":"MELIPILLA"
+                  },
+                  {
+                     "id":269,
+                     "nombre":"San Pedro",
+                     "valor":"San Pedro",
+                     "alias":"SAN PEDRO"
+                  }
+               ]
+            },
+            {
+               "id":64500,
+               "nombre":"Puente Alto",
+               "valor":"Puente Alto",
+               "alias":"PUENTE ALTO",
+               "comunas":[
+                  {
+                     "id":270,
+                     "nombre":"Pirque",
+                     "valor":"Pirque",
+                     "alias":"PIRQUE"
+                  },
+                  {
+                     "id":271,
+                     "nombre":"Puente Alto",
+                     "valor":"Puente Alto",
+                     "alias":"PUENTE ALTO"
+                  },
+                  {
+                     "id":272,
+                     "nombre":"San Jose De Maipo",
+                     "valor":"San Jose De Maipo",
+                     "alias":"SAN JOSE DE MAIPO"
+                  }
+               ]
+            },
+            {
+               "id":65000,
+               "nombre":"San Bernardo",
+               "valor":"San Bernardo",
+               "alias":"SAN BERNARDO",
+               "comunas":[
+                  {
+                     "id":273,
+                     "nombre":"San Bernardo",
+                     "valor":"San Bernardo",
+                     "alias":"SAN BERNARDO"
+                  }
+               ]
+            },
+            {
+               "id":60500,
+               "nombre":"Santiago",
+               "valor":"Santiago",
+               "alias":"SANTIAGO",
+               "comunas":[
+                  {
+                     "id":274,
+                     "nombre":"Cerrillos",
+                     "valor":"Cerrillos",
+                     "alias":"CERRILLOS"
+                  },
+                  {
+                     "id":275,
+                     "nombre":"Cerro Navia",
+                     "valor":"Cerro Navia",
+                     "alias":"CERRO NAVIA"
+                  },
+                  {
+                     "id":276,
+                     "nombre":"Conchali",
+                     "valor":"Conchali",
+                     "alias":"CONCHALI"
+                  },
+                  {
+                     "id":277,
+                     "nombre":"El Bosque",
+                     "valor":"El Bosque",
+                     "alias":"EL BOSQUE"
+                  },
+                  {
+                     "id":278,
+                     "nombre":"Estacion Central",
+                     "valor":"Estacion Central",
+                     "alias":"ESTACION CENTRAL"
+                  },
+                  {
+                     "id":279,
+                     "nombre":"Huechuraba",
+                     "valor":"Huechuraba",
+                     "alias":"HUECHURABA"
+                  },
+                  {
+                     "id":280,
+                     "nombre":"Independencia",
+                     "valor":"Independencia",
+                     "alias":"INDEPENDENCIA"
+                  },
+                  {
+                     "id":281,
+                     "nombre":"La Cisterna",
+                     "valor":"La Cisterna",
+                     "alias":"LA CISTERNA"
+                  },
+                  {
+                     "id":282,
+                     "nombre":"La Florida",
+                     "valor":"La Florida",
+                     "alias":"LA FLORIDA"
+                  },
+                  {
+                     "id":283,
+                     "nombre":"La Granja",
+                     "valor":"La Granja",
+                     "alias":"LA GRANJA"
+                  },
+                  {
+                     "id":284,
+                     "nombre":"La Pintana",
+                     "valor":"La Pintana",
+                     "alias":"LA PINTANA"
+                  },
+                  {
+                     "id":285,
+                     "nombre":"La Reina",
+                     "valor":"La Reina",
+                     "alias":"LA REINA"
+                  },
+                  {
+                     "id":286,
+                     "nombre":"Las Condes",
+                     "valor":"Las Condes",
+                     "alias":"LAS CONDES"
+                  },
+                  {
+                     "id":287,
+                     "nombre":"Lo Barnechea",
+                     "valor":"Lo Barnechea",
+                     "alias":"LO BARNECHEA"
+                  },
+                  {
+                     "id":288,
+                     "nombre":"Lo Espejo",
+                     "valor":"Lo Espejo",
+                     "alias":"LO ESPEJO"
+                  },
+                  {
+                     "id":289,
+                     "nombre":"Lo Prado",
+                     "valor":"Lo Prado",
+                     "alias":"LO PRADO"
+                  },
+                  {
+                     "id":290,
+                     "nombre":"Macul",
+                     "valor":"Macul",
+                     "alias":"MACUL"
+                  },
+                  {
+                     "id":291,
+                     "nombre":"Maipu",
+                     "valor":"Maipu",
+                     "alias":"MAIPU"
+                  },
+                  {
+                     "id":292,
+                     "nombre":"Nunoa",
+                     "valor":"Nunoa",
+                     "alias":"NUNOA"
+                  },
+                  {
+                     "id":293,
+                     "nombre":"Pedro Aguirre Cerda",
+                     "valor":"Pedro Aguirre Cerda",
+                     "alias":"PEDRO AGUIRRE CERDA"
+                  },
+                  {
+                     "id":294,
+                     "nombre":"Penalolen",
+                     "valor":"Penalolen",
+                     "alias":"PENALOLEN"
+                  },
+                  {
+                     "id":295,
+                     "nombre":"Providencia",
+                     "valor":"Providencia",
+                     "alias":"PROVIDENCIA"
+                  },
+                  {
+                     "id":296,
+                     "nombre":"Pudahuel",
+                     "valor":"Pudahuel",
+                     "alias":"PUDAHUEL"
+                  },
+                  {
+                     "id":297,
+                     "nombre":"Quilicura",
+                     "valor":"Quilicura",
+                     "alias":"QUILICURA"
+                  },
+                  {
+                     "id":298,
+                     "nombre":"Quinta Normal",
+                     "valor":"Quinta Normal",
+                     "alias":"QUINTA NORMAL"
+                  },
+                  {
+                     "id":299,
+                     "nombre":"Recoleta",
+                     "valor":"Recoleta",
+                     "alias":"RECOLETA"
+                  },
+                  {
+                     "id":300,
+                     "nombre":"Renca",
+                     "valor":"Renca",
+                     "alias":"RENCA"
+                  },
+                  {
+                     "id":301,
+                     "nombre":"San Joaquin",
+                     "valor":"San Joaquin",
+                     "alias":"SAN JOAQUIN"
+                  },
+                  {
+                     "id":302,
+                     "nombre":"San Miguel",
+                     "valor":"San Miguel",
+                     "alias":"SAN MIGUEL"
+                  },
+                  {
+                     "id":303,
+                     "nombre":"San Ramon",
+                     "valor":"San Ramon",
+                     "alias":"SAN RAMON"
+                  },
+                  {
+                     "id":304,
+                     "nombre":"Santiago",
+                     "valor":"Santiago",
+                     "alias":"SANTIAGO"
+                  },
+                  {
+                     "id":305,
+                     "nombre":"Vitacura",
+                     "valor":"Vitacura",
+                     "alias":"VITACURA"
+                  }
+               ]
+            },
+            {
+               "id":67000,
+               "nombre":"Talagante",
+               "valor":"Talagante",
+               "alias":"TALAGANTE",
+               "comunas":[
+                  {
+                     "id":306,
+                     "nombre":"El Monte",
+                     "valor":"El Monte",
+                     "alias":"EL MONTE"
+                  },
+                  {
+                     "id":307,
+                     "nombre":"Isla De Maipo",
+                     "valor":"Isla De Maipo",
+                     "alias":"ISLA DE MAIPO"
+                  },
+                  {
+                     "id":308,
+                     "nombre":"Padre Hurtado",
+                     "valor":"Padre Hurtado",
+                     "alias":"PADRE HURTADO"
+                  },
+                  {
+                     "id":309,
+                     "nombre":"Penaflor",
+                     "valor":"Penaflor",
+                     "alias":"PENAFLOR"
+                  },
+                  {
+                     "id":310,
+                     "nombre":"Talagante",
+                     "valor":"Talagante",
+                     "alias":"TALAGANTE"
+                  }
+               ]
+            }
+         ]
+      },
+      {
+         "id":1,
+         "valor":"Primera Region",
+         "nombre":"Primera Region",
+         "alias":"Región de Tarapacá",
+         "sigla":"I",
+         "ciudades":[
+            {
+               "id":21600,
+               "nombre":"Alto Hospicio",
+               "valor":"Alto Hospicio",
+               "alias":"ALTO HOSPICIO",
+               "comunas":[
+                  {
+                     "id":1,
+                     "nombre":"Alto Hospicio",
+                     "valor":"Alto Hospicio",
+                     "alias":"ALTO HOSPICIO"
+                  }
+               ]
+            },
+            {
+               "id":21200,
+               "nombre":"Camina",
+               "valor":"Camina",
+               "alias":"CAMINA",
+               "comunas":[
+                  {
+                     "id":2,
+                     "nombre":"Camina",
+                     "valor":"Camina",
+                     "alias":"CAMINA"
+                  }
+               ]
+            },
+            {
+               "id":21300,
+               "nombre":"Colchane",
+               "valor":"Colchane",
+               "alias":"COLCHANE",
+               "comunas":[
+                  {
+                     "id":3,
+                     "nombre":"Colchane",
+                     "valor":"Colchane",
+                     "alias":"COLCHANE"
+                  }
+               ]
+            },
+            {
+               "id":21100,
+               "nombre":"Huara",
+               "valor":"Huara",
+               "alias":"HUARA",
+               "comunas":[
+                  {
+                     "id":4,
+                     "nombre":"Huara",
+                     "valor":"Huara",
+                     "alias":"HUARA"
+                  }
+               ]
+            },
+            {
+               "id":21000,
+               "nombre":"Iquique",
+               "valor":"Iquique",
+               "alias":"IQUIQUE",
+               "comunas":[
+                  {
+                     "id":5,
+                     "nombre":"Iquique",
+                     "valor":"Iquique",
+                     "alias":"IQUIQUE"
+                  }
+               ]
+            },
+            {
+               "id":21400,
+               "nombre":"Pica",
+               "valor":"Pica",
+               "alias":"PICA",
+               "comunas":[
+                  {
+                     "id":6,
+                     "nombre":"Pica",
+                     "valor":"Pica",
+                     "alias":"PICA"
+                  }
+               ]
+            },
+            {
+               "id":21500,
+               "nombre":"Pozo Almonte",
+               "valor":"Pozo Almonte",
+               "alias":"POZO ALMONTE",
+               "comunas":[
+                  {
+                     "id":7,
+                     "nombre":"Pozo Almonte",
+                     "valor":"Pozo Almonte",
+                     "alias":"POZO ALMONTE"
+                  }
+               ]
+            }
+         ]
+      },
+      {
+         "id":2,
+         "valor":"Segunda Region",
+         "nombre":"Segunda Region",
+         "alias":"Región de Antofagasta",
+         "sigla":"II",
+         "ciudades":[
+            {
+               "id":23000,
+               "nombre":"Antofagasta",
+               "valor":"Antofagasta",
+               "alias":"ANTOFAGASTA",
+               "comunas":[
+                  {
+                     "id":8,
+                     "nombre":"Antofagasta",
+                     "valor":"Antofagasta",
+                     "alias":"ANTOFAGASTA"
+                  }
+               ]
+            },
+            {
+               "id":22500,
+               "nombre":"Calama",
+               "valor":"Calama",
+               "alias":"CALAMA",
+               "comunas":[
+                  {
+                     "id":9,
+                     "nombre":"Calama",
+                     "valor":"Calama",
+                     "alias":"CALAMA"
+                  }
+               ]
+            },
+            {
+               "id":22100,
+               "nombre":"Maria Elena",
+               "valor":"Maria Elena",
+               "alias":"MARIA ELENA",
+               "comunas":[
+                  {
+                     "id":10,
+                     "nombre":"Maria Elena",
+                     "valor":"Maria Elena",
+                     "alias":"MARIA ELENA"
+                  }
+               ]
+            },
+            {
+               "id":23100,
+               "nombre":"Mejillones",
+               "valor":"Mejillones",
+               "alias":"MEJILLONES",
+               "comunas":[
+                  {
+                     "id":11,
+                     "nombre":"Mejillones",
+                     "valor":"Mejillones",
+                     "alias":"MEJILLONES"
+                  }
+               ]
+            },
+            {
+               "id":22600,
+               "nombre":"Ollague",
+               "valor":"Ollague",
+               "alias":"OLLAGUE",
+               "comunas":[
+                  {
+                     "id":12,
+                     "nombre":"Ollague",
+                     "valor":"Ollague",
+                     "alias":"OLLAGUE"
+                  }
+               ]
+            },
+            {
+               "id":22700,
+               "nombre":"San Pedro De Atacama",
+               "valor":"San Pedro De Atacama",
+               "alias":"SAN PEDRO DE ATACAMA",
+               "comunas":[
+                  {
+                     "id":13,
+                     "nombre":"San Pedro De Atacama",
+                     "valor":"San Pedro De Atacama",
+                     "alias":"SAN PEDRO DE ATACAMA"
+                  }
+               ]
+            },
+            {
+               "id":23200,
+               "nombre":"Sierra Gorda",
+               "valor":"Sierra Gorda",
+               "alias":"SIERRA GORDA",
+               "comunas":[
+                  {
+                     "id":14,
+                     "nombre":"Sierra Gorda",
+                     "valor":"Sierra Gorda",
+                     "alias":"SIERRA GORDA"
+                  }
+               ]
+            },
+            {
+               "id":23300,
+               "nombre":"Taltal",
+               "valor":"Taltal",
+               "alias":"TALTAL",
+               "comunas":[
+                  {
+                     "id":15,
+                     "nombre":"Taltal",
+                     "valor":"Taltal",
+                     "alias":"TALTAL"
+                  }
+               ]
+            },
+            {
+               "id":22000,
+               "nombre":"Tocopilla",
+               "valor":"Tocopilla",
+               "alias":"TOCOPILLA",
+               "comunas":[
+                  {
+                     "id":16,
+                     "nombre":"Tocopilla",
+                     "valor":"Tocopilla",
+                     "alias":"TOCOPILLA"
+                  }
+               ]
+            }
+         ]
+      },
+      {
+         "id":3,
+         "valor":"Tercera Region",
+         "nombre":"Tercera Region",
+         "alias":"Región de Atacama",
+         "sigla":"III",
+         "ciudades":[
+            {
+               "id":24800,
+               "nombre":"Alto Del Carmen",
+               "valor":"Alto Del Carmen",
+               "alias":"ALTO DEL CARMEN",
+               "comunas":[
+                  {
+                     "id":17,
+                     "nombre":"Alto Del Carmen",
+                     "valor":"Alto Del Carmen",
+                     "alias":"ALTO DEL CARMEN"
+                  }
+               ]
+            },
+            {
+               "id":24100,
+               "nombre":"Caldera",
+               "valor":"Caldera",
+               "alias":"CALDERA",
+               "comunas":[
+                  {
+                     "id":18,
+                     "nombre":"Caldera",
+                     "valor":"Caldera",
+                     "alias":"CALDERA"
+                  }
+               ]
+            },
+            {
+               "id":23500,
+               "nombre":"Chanaral",
+               "valor":"Chanaral",
+               "alias":"CHANARAL",
+               "comunas":[
+                  {
+                     "id":19,
+                     "nombre":"Chanaral",
+                     "valor":"Chanaral",
+                     "alias":"CHANARAL"
+                  }
+               ]
+            },
+            {
+               "id":24000,
+               "nombre":"Copiapo",
+               "valor":"Copiapo",
+               "alias":"COPIAPO",
+               "comunas":[
+                  {
+                     "id":20,
+                     "nombre":"Copiapo",
+                     "valor":"Copiapo",
+                     "alias":"COPIAPO"
+                  }
+               ]
+            },
+            {
+               "id":23600,
+               "nombre":"Diego De Almagro",
+               "valor":"Diego De Almagro",
+               "alias":"DIEGO DE ALMAGRO",
+               "comunas":[
+                  {
+                     "id":21,
+                     "nombre":"Diego De Almagro",
+                     "valor":"Diego De Almagro",
+                     "alias":"DIEGO DE ALMAGRO"
+                  }
+               ]
+            },
+            {
+               "id":24600,
+               "nombre":"Freirina",
+               "valor":"Freirina",
+               "alias":"FREIRINA",
+               "comunas":[
+                  {
+                     "id":22,
+                     "nombre":"Freirina",
+                     "valor":"Freirina",
+                     "alias":"FREIRINA"
+                  }
+               ]
+            },
+            {
+               "id":24700,
+               "nombre":"Huasco",
+               "valor":"Huasco",
+               "alias":"HUASCO",
+               "comunas":[
+                  {
+                     "id":23,
+                     "nombre":"Huasco",
+                     "valor":"Huasco",
+                     "alias":"HUASCO"
+                  }
+               ]
+            },
+            {
+               "id":24200,
+               "nombre":"Tierra Amarilla",
+               "valor":"Tierra Amarilla",
+               "alias":"TIERRA AMARILLA",
+               "comunas":[
+                  {
+                     "id":24,
+                     "nombre":"Tierra Amarilla",
+                     "valor":"Tierra Amarilla",
+                     "alias":"TIERRA AMARILLA"
+                  }
+               ]
+            },
+            {
+               "id":24500,
+               "nombre":"Vallenar",
+               "valor":"Vallenar",
+               "alias":"VALLENAR",
+               "comunas":[
+                  {
+                     "id":25,
+                     "nombre":"Vallenar",
+                     "valor":"Vallenar",
+                     "alias":"VALLENAR"
+                  }
+               ]
+            }
+         ]
+      },
+      {
+         "id":4,
+         "valor":"Cuarta Region",
+         "nombre":"Cuarta Region",
+         "alias":"Región de Coquimbo",
+         "sigla":"IV",
+         "ciudades":[
+            {
+               "id":25300,
+               "nombre":"Andacollo",
+               "valor":"Andacollo",
+               "alias":"ANDACOLLO",
+               "comunas":[
+                  {
+                     "id":26,
+                     "nombre":"Andacollo",
+                     "valor":"Andacollo",
+                     "alias":"ANDACOLLO"
+                  }
+               ]
+            },
+            {
+               "id":27300,
+               "nombre":"Canela",
+               "valor":"Canela",
+               "alias":"CANELA",
+               "comunas":[
+                  {
+                     "id":27,
+                     "nombre":"Canela",
+                     "valor":"Canela",
+                     "alias":"CANELA"
+                  }
+               ]
+            },
+            {
+               "id":26300,
+               "nombre":"Combarbala",
+               "valor":"Combarbala",
+               "alias":"COMBARBALA",
+               "comunas":[
+                  {
+                     "id":28,
+                     "nombre":"Combarbala",
+                     "valor":"Combarbala",
+                     "alias":"COMBARBALA"
+                  }
+               ]
+            },
+            {
+               "id":25200,
+               "nombre":"Coquimbo",
+               "valor":"Coquimbo",
+               "alias":"COQUIMBO",
+               "comunas":[
+                  {
+                     "id":29,
+                     "nombre":"Coquimbo",
+                     "valor":"Coquimbo",
+                     "alias":"COQUIMBO"
+                  }
+               ]
+            },
+            {
+               "id":27000,
+               "nombre":"Illapel",
+               "valor":"Illapel",
+               "alias":"ILLAPEL",
+               "comunas":[
+                  {
+                     "id":30,
+                     "nombre":"Illapel",
+                     "valor":"Illapel",
+                     "alias":"ILLAPEL"
+                  }
+               ]
+            },
+            {
+               "id":25100,
+               "nombre":"La Higuera",
+               "valor":"La Higuera",
+               "alias":"LA HIGUERA",
+               "comunas":[
+                  {
+                     "id":31,
+                     "nombre":"La Higuera",
+                     "valor":"La Higuera",
+                     "alias":"LA HIGUERA"
+                  }
+               ]
+            },
+            {
+               "id":25000,
+               "nombre":"La Serena",
+               "valor":"La Serena",
+               "alias":"LA SERENA",
+               "comunas":[
+                  {
+                     "id":32,
+                     "nombre":"La Serena",
+                     "valor":"La Serena",
+                     "alias":"LA SERENA"
+                  }
+               ]
+            },
+            {
+               "id":27200,
+               "nombre":"Los Vilos",
+               "valor":"Los Vilos",
+               "alias":"LOS VILOS",
+               "comunas":[
+                  {
+                     "id":33,
+                     "nombre":"Los Vilos",
+                     "valor":"Los Vilos",
+                     "alias":"LOS VILOS"
+                  }
+               ]
+            },
+            {
+               "id":26200,
+               "nombre":"Monte Patria",
+               "valor":"Monte Patria",
+               "alias":"MONTE PATRIA",
+               "comunas":[
+                  {
+                     "id":34,
+                     "nombre":"Monte Patria",
+                     "valor":"Monte Patria",
+                     "alias":"MONTE PATRIA"
+                  }
+               ]
+            },
+            {
+               "id":26000,
+               "nombre":"Ovalle",
+               "valor":"Ovalle",
+               "alias":"OVALLE",
+               "comunas":[
+                  {
+                     "id":35,
+                     "nombre":"Ovalle",
+                     "valor":"Ovalle",
+                     "alias":"OVALLE"
+                  }
+               ]
+            },
+            {
+               "id":25500,
+               "nombre":"Paihuano",
+               "valor":"Paihuano",
+               "alias":"PAIHUANO",
+               "comunas":[
+                  {
+                     "id":36,
+                     "nombre":"Paihuano",
+                     "valor":"Paihuano",
+                     "alias":"PAIHUANO"
+                  }
+               ]
+            },
+            {
+               "id":26400,
+               "nombre":"Punitaqui",
+               "valor":"Punitaqui",
+               "alias":"PUNITAQUI",
+               "comunas":[
+                  {
+                     "id":37,
+                     "nombre":"Punitaqui",
+                     "valor":"Punitaqui",
+                     "alias":"PUNITAQUI"
+                  }
+               ]
+            },
+            {
+               "id":26100,
+               "nombre":"Rio Hurtado",
+               "valor":"Rio Hurtado",
+               "alias":"RIO HURTADO",
+               "comunas":[
+                  {
+                     "id":38,
+                     "nombre":"Rio Hurtado",
+                     "valor":"Rio Hurtado",
+                     "alias":"RIO HURTADO"
+                  }
+               ]
+            },
+            {
+               "id":27100,
+               "nombre":"Salamanca",
+               "valor":"Salamanca",
+               "alias":"SALAMANCA",
+               "comunas":[
+                  {
+                     "id":39,
+                     "nombre":"Salamanca",
+                     "valor":"Salamanca",
+                     "alias":"SALAMANCA"
+                  }
+               ]
+            },
+            {
+               "id":25400,
+               "nombre":"Vicuna",
+               "valor":"Vicuna",
+               "alias":"VICUNA",
+               "comunas":[
+                  {
+                     "id":40,
+                     "nombre":"Vicuna",
+                     "valor":"Vicuna",
+                     "alias":"VICUNA"
+                  }
+               ]
+            }
+         ]
+      },
+      {
+         "id":5,
+         "valor":"Quinta Region",
+         "nombre":"Quinta Region",
+         "alias":"Región de Valparaiso",
+         "sigla":"V",
+         "ciudades":[
+            {
+               "id":32400,
+               "nombre":"Algarrobo",
+               "valor":"Algarrobo",
+               "alias":"ALGARROBO",
+               "comunas":[
+                  {
+                     "id":41,
+                     "nombre":"Algarrobo",
+                     "valor":"Algarrobo",
+                     "alias":"ALGARROBO"
+                  }
+               ]
+            },
+            {
+               "id":27700,
+               "nombre":"Cabildo",
+               "valor":"Cabildo",
+               "alias":"CABILDO",
+               "comunas":[
+                  {
+                     "id":42,
+                     "nombre":"Cabildo",
+                     "valor":"Cabildo",
+                     "alias":"CABILDO"
+                  }
+               ]
+            },
+            {
+               "id":28700,
+               "nombre":"Calle Larga",
+               "valor":"Calle Larga",
+               "alias":"CALLE LARGA",
+               "comunas":[
+                  {
+                     "id":43,
+                     "nombre":"Calle Larga",
+                     "valor":"Calle Larga",
+                     "alias":"CALLE LARGA"
+                  }
+               ]
+            },
+            {
+               "id":32100,
+               "nombre":"Cartagena",
+               "valor":"Cartagena",
+               "alias":"CARTAGENA",
+               "comunas":[
+                  {
+                     "id":44,
+                     "nombre":"Cartagena",
+                     "valor":"Cartagena",
+                     "alias":"CARTAGENA"
+                  }
+               ]
+            },
+            {
+               "id":31600,
+               "nombre":"Casablanca",
+               "valor":"Casablanca",
+               "alias":"CASABLANCA",
+               "comunas":[
+                  {
+                     "id":45,
+                     "nombre":"Casablanca",
+                     "valor":"Casablanca",
+                     "alias":"CASABLANCA"
+                  }
+               ]
+            },
+            {
+               "id":29500,
+               "nombre":"Catemu",
+               "valor":"Catemu",
+               "alias":"CATEMU",
+               "comunas":[
+                  {
+                     "id":46,
+                     "nombre":"Catemu",
+                     "valor":"Catemu",
+                     "alias":"CATEMU"
+                  }
+               ]
+            },
+            {
+               "id":31800,
+               "nombre":"Concon",
+               "valor":"Concon",
+               "alias":"CONCON",
+               "comunas":[
+                  {
+                     "id":47,
+                     "nombre":"Concon",
+                     "valor":"Concon",
+                     "alias":"CONCON"
+                  }
+               ]
+            },
+            {
+               "id":32300,
+               "nombre":"El Quisco",
+               "valor":"El Quisco",
+               "alias":"EL QUISCO",
+               "comunas":[
+                  {
+                     "id":48,
+                     "nombre":"El Quisco",
+                     "valor":"El Quisco",
+                     "alias":"EL QUISCO"
+                  }
+               ]
+            },
+            {
+               "id":32200,
+               "nombre":"El Tabo",
+               "valor":"El Tabo",
+               "alias":"EL TABO",
+               "comunas":[
+                  {
+                     "id":49,
+                     "nombre":"El Tabo",
+                     "valor":"El Tabo",
+                     "alias":"EL TABO"
+                  }
+               ]
+            },
+            {
+               "id":30400,
+               "nombre":"Hijuelas",
+               "valor":"Hijuelas",
+               "alias":"HIJUELAS",
+               "comunas":[
+                  {
+                     "id":50,
+                     "nombre":"Hijuelas",
+                     "valor":"Hijuelas",
+                     "alias":"HIJUELAS"
+                  }
+               ]
+            },
+            {
+               "id":33000,
+               "nombre":"Isla De Pascua",
+               "valor":"Isla De Pascua",
+               "alias":"ISLA DE PASCUA",
+               "comunas":[
+                  {
+                     "id":51,
+                     "nombre":"Isla De Pascua",
+                     "valor":"Isla De Pascua",
+                     "alias":"ISLA DE PASCUA"
+                  }
+               ]
+            },
+            {
+               "id":31700,
+               "nombre":"Juan Fernandez",
+               "valor":"Juan Fernandez",
+               "alias":"JUAN FERNANDEZ",
+               "comunas":[
+                  {
+                     "id":52,
+                     "nombre":"Juan Fernandez",
+                     "valor":"Juan Fernandez",
+                     "alias":"JUAN FERNANDEZ"
+                  }
+               ]
+            },
+            {
+               "id":30200,
+               "nombre":"La Calera",
+               "valor":"La Calera",
+               "alias":"LA CALERA",
+               "comunas":[
+                  {
+                     "id":53,
+                     "nombre":"La Calera",
+                     "valor":"La Calera",
+                     "alias":"LA CALERA"
+                  }
+               ]
+            },
+            {
+               "id":30100,
+               "nombre":"La Cruz",
+               "valor":"La Cruz",
+               "alias":"LA CRUZ",
+               "comunas":[
+                  {
+                     "id":54,
+                     "nombre":"La Cruz",
+                     "valor":"La Cruz",
+                     "alias":"LA CRUZ"
+                  }
+               ]
+            },
+            {
+               "id":27500,
+               "nombre":"La Ligua",
+               "valor":"La Ligua",
+               "alias":"LA LIGUA",
+               "comunas":[
+                  {
+                     "id":55,
+                     "nombre":"La Ligua",
+                     "valor":"La Ligua",
+                     "alias":"LA LIGUA"
+                  }
+               ]
+            },
+            {
+               "id":30500,
+               "nombre":"Limache",
+               "valor":"Limache",
+               "alias":"LIMACHE",
+               "comunas":[
+                  {
+                     "id":56,
+                     "nombre":"Limache",
+                     "valor":"Limache",
+                     "alias":"LIMACHE"
+                  }
+               ]
+            },
+            {
+               "id":29400,
+               "nombre":"Llay-Llay",
+               "valor":"Llay-Llay",
+               "alias":"LLAY-LLAY",
+               "comunas":[
+                  {
+                     "id":57,
+                     "nombre":"Llay-Llay",
+                     "valor":"Llay-Llay",
+                     "alias":"LLAY-LLAY"
+                  }
+               ]
+            },
+            {
+               "id":28500,
+               "nombre":"Los Andes",
+               "valor":"Los Andes",
+               "alias":"LOS ANDES",
+               "comunas":[
+                  {
+                     "id":58,
+                     "nombre":"Los Andes",
+                     "valor":"Los Andes",
+                     "alias":"LOS ANDES"
+                  }
+               ]
+            },
+            {
+               "id":30300,
+               "nombre":"Nogales",
+               "valor":"Nogales",
+               "alias":"NOGALES",
+               "comunas":[
+                  {
+                     "id":59,
+                     "nombre":"Nogales",
+                     "valor":"Nogales",
+                     "alias":"NOGALES"
+                  }
+               ]
+            },
+            {
+               "id":30600,
+               "nombre":"Olmue",
+               "valor":"Olmue",
+               "alias":"OLMUE",
+               "comunas":[
+                  {
+                     "id":60,
+                     "nombre":"Olmue",
+                     "valor":"Olmue",
+                     "alias":"OLMUE"
+                  }
+               ]
+            },
+            {
+               "id":29300,
+               "nombre":"Panquehue",
+               "valor":"Panquehue",
+               "alias":"PANQUEHUE",
+               "comunas":[
+                  {
+                     "id":61,
+                     "nombre":"Panquehue",
+                     "valor":"Panquehue",
+                     "alias":"PANQUEHUE"
+                  }
+               ]
+            },
+            {
+               "id":27900,
+               "nombre":"Papudo",
+               "valor":"Papudo",
+               "alias":"PAPUDO",
+               "comunas":[
+                  {
+                     "id":62,
+                     "nombre":"Papudo",
+                     "valor":"Papudo",
+                     "alias":"PAPUDO"
+                  }
+               ]
+            },
+            {
+               "id":27600,
+               "nombre":"Petorca",
+               "valor":"Petorca",
+               "alias":"PETORCA",
+               "comunas":[
+                  {
+                     "id":63,
+                     "nombre":"Petorca",
+                     "valor":"Petorca",
+                     "alias":"PETORCA"
+                  }
+               ]
+            },
+            {
+               "id":31300,
+               "nombre":"Puchuncavi",
+               "valor":"Puchuncavi",
+               "alias":"PUCHUNCAVI",
+               "comunas":[
+                  {
+                     "id":64,
+                     "nombre":"Puchuncavi",
+                     "valor":"Puchuncavi",
+                     "alias":"PUCHUNCAVI"
+                  }
+               ]
+            },
+            {
+               "id":29100,
+               "nombre":"Putaendo",
+               "valor":"Putaendo",
+               "alias":"PUTAENDO",
+               "comunas":[
+                  {
+                     "id":65,
+                     "nombre":"Putaendo",
+                     "valor":"Putaendo",
+                     "alias":"PUTAENDO"
+                  }
+               ]
+            },
+            {
+               "id":30000,
+               "nombre":"Quillota",
+               "valor":"Quillota",
+               "alias":"QUILLOTA",
+               "comunas":[
+                  {
+                     "id":66,
+                     "nombre":"Quillota",
+                     "valor":"Quillota",
+                     "alias":"QUILLOTA"
+                  }
+               ]
+            },
+            {
+               "id":31400,
+               "nombre":"Quilpue",
+               "valor":"Quilpue",
+               "alias":"QUILPUE",
+               "comunas":[
+                  {
+                     "id":67,
+                     "nombre":"Quilpue",
+                     "valor":"Quilpue",
+                     "alias":"QUILPUE"
+                  }
+               ]
+            },
+            {
+               "id":31200,
+               "nombre":"Quintero",
+               "valor":"Quintero",
+               "alias":"QUINTERO",
+               "comunas":[
+                  {
+                     "id":68,
+                     "nombre":"Quintero",
+                     "valor":"Quintero",
+                     "alias":"QUINTERO"
+                  }
+               ]
+            },
+            {
+               "id":28800,
+               "nombre":"Rinconada",
+               "valor":"Rinconada",
+               "alias":"RINCONADA",
+               "comunas":[
+                  {
+                     "id":69,
+                     "nombre":"Rinconada",
+                     "valor":"Rinconada",
+                     "alias":"RINCONADA"
+                  }
+               ]
+            },
+            {
+               "id":32000,
+               "nombre":"San Antonio",
+               "valor":"San Antonio",
+               "alias":"SAN ANTONIO",
+               "comunas":[
+                  {
+                     "id":70,
+                     "nombre":"San Antonio",
+                     "valor":"San Antonio",
+                     "alias":"SAN ANTONIO"
+                  }
+               ]
+            },
+            {
+               "id":28600,
+               "nombre":"San Esteban",
+               "valor":"San Esteban",
+               "alias":"SAN ESTEBAN",
+               "comunas":[
+                  {
+                     "id":71,
+                     "nombre":"San Esteban",
+                     "valor":"San Esteban",
+                     "alias":"SAN ESTEBAN"
+                  }
+               ]
+            },
+            {
+               "id":29000,
+               "nombre":"San Felipe",
+               "valor":"San Felipe",
+               "alias":"SAN FELIPE",
+               "comunas":[
+                  {
+                     "id":72,
+                     "nombre":"San Felipe",
+                     "valor":"San Felipe",
+                     "alias":"SAN FELIPE"
+                  }
+               ]
+            },
+            {
+               "id":29200,
+               "nombre":"Santa Maria",
+               "valor":"Santa Maria",
+               "alias":"SANTA MARIA",
+               "comunas":[
+                  {
+                     "id":73,
+                     "nombre":"Santa Maria",
+                     "valor":"Santa Maria",
+                     "alias":"SANTA MARIA"
+                  }
+               ]
+            },
+            {
+               "id":32500,
+               "nombre":"Santo Domingo",
+               "valor":"Santo Domingo",
+               "alias":"SANTO DOMINGO",
+               "comunas":[
+                  {
+                     "id":74,
+                     "nombre":"Santo Domingo",
+                     "valor":"Santo Domingo",
+                     "alias":"SANTO DOMINGO"
+                  }
+               ]
+            },
+            {
+               "id":31000,
+               "nombre":"Valparaiso",
+               "valor":"Valparaiso",
+               "alias":"VALPARAISO",
+               "comunas":[
+                  {
+                     "id":75,
+                     "nombre":"Valparaiso",
+                     "valor":"Valparaiso",
+                     "alias":"VALPARAISO"
+                  }
+               ]
+            },
+            {
+               "id":31500,
+               "nombre":"Villa Alemana",
+               "valor":"Villa Alemana",
+               "alias":"VILLA ALEMANA",
+               "comunas":[
+                  {
+                     "id":76,
+                     "nombre":"Villa Alemana",
+                     "valor":"Villa Alemana",
+                     "alias":"VILLA ALEMANA"
+                  }
+               ]
+            },
+            {
+               "id":31100,
+               "nombre":"Vina Del Mar",
+               "valor":"Vina Del Mar",
+               "alias":"VINA DEL MAR",
+               "comunas":[
+                  {
+                     "id":77,
+                     "nombre":"Vina Del Mar",
+                     "valor":"Vina Del Mar",
+                     "alias":"VINA DEL MAR"
+                  }
+               ]
+            },
+            {
+               "id":27800,
+               "nombre":"Zapallar",
+               "valor":"Zapallar",
+               "alias":"ZAPALLAR",
+               "comunas":[
+                  {
+                     "id":78,
+                     "nombre":"Zapallar",
+                     "valor":"Zapallar",
+                     "alias":"ZAPALLAR"
+                  }
+               ]
+            }
+         ]
+      },
+      {
+         "id":6,
+         "valor":"Sexta Region",
+         "nombre":"Sexta Region",
+         "alias":"Región de O'Higgins",
+         "sigla":"VI",
+         "ciudades":[
+            {
+               "id":35900,
+               "nombre":"Chepica",
+               "valor":"Chepica",
+               "alias":"CHEPICA",
+               "comunas":[
+                  {
+                     "id":79,
+                     "nombre":"Chepica",
+                     "valor":"Chepica",
+                     "alias":"CHEPICA"
+                  }
+               ]
+            },
+            {
+               "id":35600,
+               "nombre":"Chimbarongo",
+               "valor":"Chimbarongo",
+               "alias":"CHIMBARONGO",
+               "comunas":[
+                  {
+                     "id":80,
+                     "nombre":"Chimbarongo",
+                     "valor":"Chimbarongo",
+                     "alias":"CHIMBARONGO"
+                  }
+               ]
+            },
+            {
+               "id":33800,
+               "nombre":"Codegua",
+               "valor":"Codegua",
+               "alias":"CODEGUA",
+               "comunas":[
+                  {
+                     "id":81,
+                     "nombre":"Codegua",
+                     "valor":"Codegua",
+                     "alias":"CODEGUA"
+                  }
+               ]
+            },
+            {
+               "id":34900,
+               "nombre":"Coinco",
+               "valor":"Coinco",
+               "alias":"COINCO",
+               "comunas":[
+                  {
+                     "id":82,
+                     "nombre":"Coinco",
+                     "valor":"Coinco",
+                     "alias":"COINCO"
+                  }
+               ]
+            },
+            {
+               "id":34800,
+               "nombre":"Coltauco",
+               "valor":"Coltauco",
+               "alias":"COLTAUCO",
+               "comunas":[
+                  {
+                     "id":83,
+                     "nombre":"Coltauco",
+                     "valor":"Coltauco",
+                     "alias":"COLTAUCO"
+                  }
+               ]
+            },
+            {
+               "id":35000,
+               "nombre":"Donihue",
+               "valor":"Donihue",
+               "alias":"DONIHUE",
+               "comunas":[
+                  {
+                     "id":84,
+                     "nombre":"Donihue",
+                     "valor":"Donihue",
+                     "alias":"DONIHUE"
+                  }
+               ]
+            },
+            {
+               "id":33600,
+               "nombre":"Graneros",
+               "valor":"Graneros",
+               "alias":"GRANEROS",
+               "comunas":[
+                  {
+                     "id":85,
+                     "nombre":"Graneros",
+                     "valor":"Graneros",
+                     "alias":"GRANEROS"
+                  }
+               ]
+            },
+            {
+               "id":37300,
+               "nombre":"La Estrella",
+               "valor":"La Estrella",
+               "alias":"LA ESTRELLA",
+               "comunas":[
+                  {
+                     "id":86,
+                     "nombre":"La Estrella",
+                     "valor":"La Estrella",
+                     "alias":"LA ESTRELLA"
+                  }
+               ]
+            },
+            {
+               "id":35100,
+               "nombre":"Las Cabras",
+               "valor":"Las Cabras",
+               "alias":"LAS CABRAS",
+               "comunas":[
+                  {
+                     "id":87,
+                     "nombre":"Las Cabras",
+                     "valor":"Las Cabras",
+                     "alias":"LAS CABRAS"
+                  }
+               ]
+            },
+            {
+               "id":37200,
+               "nombre":"Litueche",
+               "valor":"Litueche",
+               "alias":"LITUECHE",
+               "comunas":[
+                  {
+                     "id":88,
+                     "nombre":"Litueche",
+                     "valor":"Litueche",
+                     "alias":"LITUECHE"
+                  }
+               ]
+            },
+            {
+               "id":36100,
+               "nombre":"Lolol",
+               "valor":"Lolol",
+               "alias":"LOLOL",
+               "comunas":[
+                  {
+                     "id":89,
+                     "nombre":"Lolol",
+                     "valor":"Lolol",
+                     "alias":"LOLOL"
+                  }
+               ]
+            },
+            {
+               "id":33900,
+               "nombre":"Machali",
+               "valor":"Machali",
+               "alias":"MACHALI",
+               "comunas":[
+                  {
+                     "id":90,
+                     "nombre":"Machali",
+                     "valor":"Machali",
+                     "alias":"MACHALI"
+                  }
+               ]
+            },
+            {
+               "id":34300,
+               "nombre":"Malloa",
+               "valor":"Malloa",
+               "alias":"MALLOA",
+               "comunas":[
+                  {
+                     "id":91,
+                     "nombre":"Malloa",
+                     "valor":"Malloa",
+                     "alias":"MALLOA"
+                  }
+               ]
+            },
+            {
+               "id":37400,
+               "nombre":"Marchigue",
+               "valor":"Marchigue",
+               "alias":"MARCHIHUE",
+               "comunas":[
+                  {
+                     "id":92,
+                     "nombre":"Marchigue",
+                     "valor":"Marchigue",
+                     "alias":"MARCHIHUE"
+                  }
+               ]
+            },
+            {
+               "id":33700,
+               "nombre":"Mostazal",
+               "valor":"Mostazal",
+               "alias":"MOSTAZAL",
+               "comunas":[
+                  {
+                     "id":93,
+                     "nombre":"Mostazal",
+                     "valor":"Mostazal",
+                     "alias":"MOSTAZAL"
+                  }
+               ]
+            },
+            {
+               "id":35800,
+               "nombre":"Nancagua",
+               "valor":"Nancagua",
+               "alias":"NANCAGUA",
+               "comunas":[
+                  {
+                     "id":94,
+                     "nombre":"Nancagua",
+                     "valor":"Nancagua",
+                     "alias":"NANCAGUA"
+                  }
+               ]
+            },
+            {
+               "id":37100,
+               "nombre":"Navidad",
+               "valor":"Navidad",
+               "alias":"NAVIDAD",
+               "comunas":[
+                  {
+                     "id":95,
+                     "nombre":"Navidad",
+                     "valor":"Navidad",
+                     "alias":"NAVIDAD"
+                  }
+               ]
+            },
+            {
+               "id":34000,
+               "nombre":"Olivar",
+               "valor":"Olivar",
+               "alias":"OLIVAR",
+               "comunas":[
+                  {
+                     "id":96,
+                     "nombre":"Olivar",
+                     "valor":"Olivar",
+                     "alias":"OLIVAR"
+                  }
+               ]
+            },
+            {
+               "id":36300,
+               "nombre":"Palmilla",
+               "valor":"Palmilla",
+               "alias":"PALMILLA",
+               "comunas":[
+                  {
+                     "id":97,
+                     "nombre":"Palmilla",
+                     "valor":"Palmilla",
+                     "alias":"PALMILLA"
+                  }
+               ]
+            },
+            {
+               "id":37500,
+               "nombre":"Paredones",
+               "valor":"Paredones",
+               "alias":"PAREDONES",
+               "comunas":[
+                  {
+                     "id":98,
+                     "nombre":"Paredones",
+                     "valor":"Paredones",
+                     "alias":"PAREDONES"
+                  }
+               ]
+            },
+            {
+               "id":36400,
+               "nombre":"Peralillo",
+               "valor":"Peralillo",
+               "alias":"PERALILLO",
+               "comunas":[
+                  {
+                     "id":99,
+                     "nombre":"Peralillo",
+                     "valor":"Peralillo",
+                     "alias":"PERALILLO"
+                  }
+               ]
+            },
+            {
+               "id":34700,
+               "nombre":"Peumo",
+               "valor":"Peumo",
+               "alias":"PEUMO",
+               "comunas":[
+                  {
+                     "id":100,
+                     "nombre":"Peumo",
+                     "valor":"Peumo",
+                     "alias":"PEUMO"
+                  }
+               ]
+            },
+            {
+               "id":34600,
+               "nombre":"Pichidegua",
+               "valor":"Pichidegua",
+               "alias":"PICHIDEGUA",
+               "comunas":[
+                  {
+                     "id":101,
+                     "nombre":"Pichidegua",
+                     "valor":"Pichidegua",
+                     "alias":"PICHIDEGUA"
+                  }
+               ]
+            },
+            {
+               "id":37000,
+               "nombre":"Pichilemu",
+               "valor":"Pichilemu",
+               "alias":"PICHILEMU",
+               "comunas":[
+                  {
+                     "id":102,
+                     "nombre":"Pichilemu",
+                     "valor":"Pichilemu",
+                     "alias":"PICHILEMU"
+                  }
+               ]
+            },
+            {
+               "id":35700,
+               "nombre":"Placilla",
+               "valor":"Placilla",
+               "alias":"PLACILLA",
+               "comunas":[
+                  {
+                     "id":103,
+                     "nombre":"Placilla",
+                     "valor":"Placilla",
+                     "alias":"PLACILLA"
+                  }
+               ]
+            },
+            {
+               "id":36200,
+               "nombre":"Pumanque",
+               "valor":"Pumanque",
+               "alias":"PUMANQUE",
+               "comunas":[
+                  {
+                     "id":104,
+                     "nombre":"Pumanque",
+                     "valor":"Pumanque",
+                     "alias":"PUMANQUE"
+                  }
+               ]
+            },
+            {
+               "id":34400,
+               "nombre":"Quinta De Tilcoco",
+               "valor":"Quinta De Tilcoco",
+               "alias":"QUINTA DE TILCOCO",
+               "comunas":[
+                  {
+                     "id":105,
+                     "nombre":"Quinta De Tilcoco",
+                     "valor":"Quinta De Tilcoco",
+                     "alias":"QUINTA DE TILCOCO"
+                  }
+               ]
+            },
+            {
+               "id":33500,
+               "nombre":"Rancagua",
+               "valor":"Rancagua",
+               "alias":"RANCAGUA",
+               "comunas":[
+                  {
+                     "id":106,
+                     "nombre":"Rancagua",
+                     "valor":"Rancagua",
+                     "alias":"RANCAGUA"
+                  }
+               ]
+            },
+            {
+               "id":34200,
+               "nombre":"Rengo",
+               "valor":"Rengo",
+               "alias":"RENGO",
+               "comunas":[
+                  {
+                     "id":107,
+                     "nombre":"Rengo",
+                     "valor":"Rengo",
+                     "alias":"RENGO"
+                  }
+               ]
+            },
+            {
+               "id":34100,
+               "nombre":"Requinoa",
+               "valor":"Requinoa",
+               "alias":"REQUINOA",
+               "comunas":[
+                  {
+                     "id":108,
+                     "nombre":"Requinoa",
+                     "valor":"Requinoa",
+                     "alias":"REQUINOA"
+                  }
+               ]
+            },
+            {
+               "id":35500,
+               "nombre":"San Fernando",
+               "valor":"San Fernando",
+               "alias":"SAN FERNANDO",
+               "comunas":[
+                  {
+                     "id":109,
+                     "nombre":"San Fernando",
+                     "valor":"San Fernando",
+                     "alias":"SAN FERNANDO"
+                  }
+               ]
+            },
+            {
+               "id":36000,
+               "nombre":"Santa Cruz",
+               "valor":"Santa Cruz",
+               "alias":"SANTA CRUZ",
+               "comunas":[
+                  {
+                     "id":110,
+                     "nombre":"Santa Cruz",
+                     "valor":"Santa Cruz",
+                     "alias":"SANTA CRUZ"
+                  }
+               ]
+            },
+            {
+               "id":34500,
+               "nombre":"Sn Vicente De Tagua Tagua",
+               "valor":"Sn Vicente De Tagua Tagua",
+               "alias":"SN VICENTE DE TAGUA TAGUA",
+               "comunas":[
+                  {
+                     "id":111,
+                     "nombre":"Sn Vicente De Tagua Tagua",
+                     "valor":"Sn Vicente De Tagua Tagua",
+                     "alias":"SN VICENTE DE TAGUA TAGUA"
+                  }
+               ]
+            }
+         ]
+      },
+      {
+         "id":7,
+         "valor":"Septima Region",
+         "nombre":"Septima Region",
+         "alias":"Región del Maule",
+         "sigla":"VII",
+         "ciudades":[
+            {
+               "id":41000,
+               "nombre":"Cauquenes",
+               "valor":"Cauquenes",
+               "alias":"CAUQUENES",
+               "comunas":[
+                  {
+                     "id":112,
+                     "nombre":"Cauquenes",
+                     "valor":"Cauquenes",
+                     "alias":"CAUQUENES"
+                  }
+               ]
+            },
+            {
+               "id":41200,
+               "nombre":"Chanco",
+               "valor":"Chanco",
+               "alias":"CHANCO",
+               "comunas":[
+                  {
+                     "id":113,
+                     "nombre":"Chanco",
+                     "valor":"Chanco",
+                     "alias":"CHANCO"
+                  }
+               ]
+            },
+            {
+               "id":40200,
+               "nombre":"Colbun",
+               "valor":"Colbun",
+               "alias":"COLBUN",
+               "comunas":[
+                  {
+                     "id":114,
+                     "nombre":"Colbun",
+                     "valor":"Colbun",
+                     "alias":"COLBUN"
+                  }
+               ]
+            },
+            {
+               "id":39700,
+               "nombre":"Constitucion",
+               "valor":"Constitucion",
+               "alias":"CONSTITUCION",
+               "comunas":[
+                  {
+                     "id":115,
+                     "nombre":"Constitucion",
+                     "valor":"Constitucion",
+                     "alias":"CONSTITUCION"
+                  }
+               ]
+            },
+            {
+               "id":39800,
+               "nombre":"Curepto",
+               "valor":"Curepto",
+               "alias":"CUREPTO",
+               "comunas":[
+                  {
+                     "id":116,
+                     "nombre":"Curepto",
+                     "valor":"Curepto",
+                     "alias":"CUREPTO"
+                  }
+               ]
+            },
+            {
+               "id":38000,
+               "nombre":"Curico",
+               "valor":"Curico",
+               "alias":"CURICO",
+               "comunas":[
+                  {
+                     "id":117,
+                     "nombre":"Curico",
+                     "valor":"Curico",
+                     "alias":"CURICO"
+                  }
+               ]
+            },
+            {
+               "id":39500,
+               "nombre":"Empedrado",
+               "valor":"Empedrado",
+               "alias":"EMPEDRADO",
+               "comunas":[
+                  {
+                     "id":118,
+                     "nombre":"Empedrado",
+                     "valor":"Empedrado",
+                     "alias":"EMPEDRADO"
+                  }
+               ]
+            },
+            {
+               "id":38500,
+               "nombre":"Hualane",
+               "valor":"Hualane",
+               "alias":"HUALANE",
+               "comunas":[
+                  {
+                     "id":119,
+                     "nombre":"Hualane",
+                     "valor":"Hualane",
+                     "alias":"HUALANE"
+                  }
+               ]
+            },
+            {
+               "id":38600,
+               "nombre":"Licanten",
+               "valor":"Licanten",
+               "alias":"LICANTEN",
+               "comunas":[
+                  {
+                     "id":120,
+                     "nombre":"Licanten",
+                     "valor":"Licanten",
+                     "alias":"LICANTEN"
+                  }
+               ]
+            },
+            {
+               "id":40000,
+               "nombre":"Linares",
+               "valor":"Linares",
+               "alias":"LINARES",
+               "comunas":[
+                  {
+                     "id":121,
+                     "nombre":"Linares",
+                     "valor":"Linares",
+                     "alias":"LINARES"
+                  }
+               ]
+            },
+            {
+               "id":40300,
+               "nombre":"Longavi",
+               "valor":"Longavi",
+               "alias":"LONGAVI",
+               "comunas":[
+                  {
+                     "id":122,
+                     "nombre":"Longavi",
+                     "valor":"Longavi",
+                     "alias":"LONGAVI"
+                  }
+               ]
+            },
+            {
+               "id":39400,
+               "nombre":"Maule",
+               "valor":"Maule",
+               "alias":"MAULE",
+               "comunas":[
+                  {
+                     "id":123,
+                     "nombre":"Maule",
+                     "valor":"Maule",
+                     "alias":"MAULE"
+                  }
+               ]
+            },
+            {
+               "id":38300,
+               "nombre":"Molina",
+               "valor":"Molina",
+               "alias":"MOLINA",
+               "comunas":[
+                  {
+                     "id":124,
+                     "nombre":"Molina",
+                     "valor":"Molina",
+                     "alias":"MOLINA"
+                  }
+               ]
+            },
+            {
+               "id":40400,
+               "nombre":"Parral",
+               "valor":"Parral",
+               "alias":"PARRAL",
+               "comunas":[
+                  {
+                     "id":125,
+                     "nombre":"Parral",
+                     "valor":"Parral",
+                     "alias":"PARRAL"
+                  }
+               ]
+            },
+            {
+               "id":39100,
+               "nombre":"Pelarco",
+               "valor":"Pelarco",
+               "alias":"PELARCO",
+               "comunas":[
+                  {
+                     "id":126,
+                     "nombre":"Pelarco",
+                     "valor":"Pelarco",
+                     "alias":"PELARCO"
+                  }
+               ]
+            },
+            {
+               "id":41100,
+               "nombre":"Pelluhue",
+               "valor":"Pelluhue",
+               "alias":"PELLUHUE",
+               "comunas":[
+                  {
+                     "id":127,
+                     "nombre":"Pelluhue",
+                     "valor":"Pelluhue",
+                     "alias":"PELLUHUE"
+                  }
+               ]
+            },
+            {
+               "id":39600,
+               "nombre":"Pencahue",
+               "valor":"Pencahue",
+               "alias":"PENCAHUE",
+               "comunas":[
+                  {
+                     "id":128,
+                     "nombre":"Pencahue",
+                     "valor":"Pencahue",
+                     "alias":"PENCAHUE"
+                  }
+               ]
+            },
+            {
+               "id":38800,
+               "nombre":"Rauco",
+               "valor":"Rauco",
+               "alias":"RAUCO",
+               "comunas":[
+                  {
+                     "id":129,
+                     "nombre":"Rauco",
+                     "valor":"Rauco",
+                     "alias":"RAUCO"
+                  }
+               ]
+            },
+            {
+               "id":40500,
+               "nombre":"Retiro",
+               "valor":"Retiro",
+               "alias":"RETIRO",
+               "comunas":[
+                  {
+                     "id":130,
+                     "nombre":"Retiro",
+                     "valor":"Retiro",
+                     "alias":"RETIRO"
+                  }
+               ]
+            },
+            {
+               "id":39200,
+               "nombre":"Rio Claro",
+               "valor":"Rio Claro",
+               "alias":"RIO CLARO",
+               "comunas":[
+                  {
+                     "id":131,
+                     "nombre":"Rio Claro",
+                     "valor":"Rio Claro",
+                     "alias":"RIO CLARO"
+                  }
+               ]
+            },
+            {
+               "id":38200,
+               "nombre":"Romeral",
+               "valor":"Romeral",
+               "alias":"ROMERAL",
+               "comunas":[
+                  {
+                     "id":132,
+                     "nombre":"Romeral",
+                     "valor":"Romeral",
+                     "alias":"ROMERAL"
+                  }
+               ]
+            },
+            {
+               "id":38400,
+               "nombre":"Sagrada Familia",
+               "valor":"Sagrada Familia",
+               "alias":"SAGRADA FAMILIA",
+               "comunas":[
+                  {
+                     "id":133,
+                     "nombre":"Sagrada Familia",
+                     "valor":"Sagrada Familia",
+                     "alias":"SAGRADA FAMILIA"
+                  }
+               ]
+            },
+            {
+               "id":39300,
+               "nombre":"San Clemente",
+               "valor":"San Clemente",
+               "alias":"SAN CLEMENTE",
+               "comunas":[
+                  {
+                     "id":134,
+                     "nombre":"San Clemente",
+                     "valor":"San Clemente",
+                     "alias":"SAN CLEMENTE"
+                  }
+               ]
+            },
+            {
+               "id":40700,
+               "nombre":"San Javier",
+               "valor":"San Javier",
+               "alias":"SAN JAVIER",
+               "comunas":[
+                  {
+                     "id":135,
+                     "nombre":"San Javier",
+                     "valor":"San Javier",
+                     "alias":"SAN JAVIER"
+                  }
+               ]
+            },
+            {
+               "id":39900,
+               "nombre":"San Rafael",
+               "valor":"San Rafael",
+               "alias":"SAN RAFAEL",
+               "comunas":[
+                  {
+                     "id":136,
+                     "nombre":"San Rafael",
+                     "valor":"San Rafael",
+                     "alias":"SAN RAFAEL"
+                  }
+               ]
+            },
+            {
+               "id":39000,
+               "nombre":"Talca",
+               "valor":"Talca",
+               "alias":"TALCA",
+               "comunas":[
+                  {
+                     "id":137,
+                     "nombre":"Talca",
+                     "valor":"Talca",
+                     "alias":"TALCA"
+                  }
+               ]
+            },
+            {
+               "id":38100,
+               "nombre":"Teno",
+               "valor":"Teno",
+               "alias":"TENO",
+               "comunas":[
+                  {
+                     "id":138,
+                     "nombre":"Teno",
+                     "valor":"Teno",
+                     "alias":"TENO"
+                  }
+               ]
+            },
+            {
+               "id":38700,
+               "nombre":"Vichuquen",
+               "valor":"Vichuquen",
+               "alias":"VICHUQUEN",
+               "comunas":[
+                  {
+                     "id":139,
+                     "nombre":"Vichuquen",
+                     "valor":"Vichuquen",
+                     "alias":"VICHUQUEN"
+                  }
+               ]
+            },
+            {
+               "id":40600,
+               "nombre":"Villa Alegre",
+               "valor":"Villa Alegre",
+               "alias":"VILLA ALEGRE",
+               "comunas":[
+                  {
+                     "id":140,
+                     "nombre":"Villa Alegre",
+                     "valor":"Villa Alegre",
+                     "alias":"VILLA ALEGRE"
+                  }
+               ]
+            },
+            {
+               "id":40100,
+               "nombre":"Yerbas Buenas",
+               "valor":"Yerbas Buenas",
+               "alias":"YERBAS BUENAS",
+               "comunas":[
+                  {
+                     "id":141,
+                     "nombre":"Yerbas Buenas",
+                     "valor":"Yerbas Buenas",
+                     "alias":"YERBAS BUENAS"
+                  }
+               ]
+            }
+         ]
+      },
+      {
+         "id":8,
+         "valor":"Octava Region",
+         "nombre":"Octava Region",
+         "alias":"Región del Biobío",
+         "sigla":"VIII",
+         "ciudades":[
+            {
+               "id":70000,
+               "nombre":"Alto Biobio",
+               "valor":"Alto Biobio",
+               "alias":"ALTO BIOBIO",
+               "comunas":[
+                  {
+                     "id":142,
+                     "nombre":"Alto Biobio",
+                     "valor":"Alto Biobio",
+                     "alias":"ALTO BIOBIO"
+                  }
+               ]
+            },
+            {
+               "id":44300,
+               "nombre":"Antuco",
+               "valor":"Antuco",
+               "alias":"ANTUCO",
+               "comunas":[
+                  {
+                     "id":143,
+                     "nombre":"Antuco",
+                     "valor":"Antuco",
+                     "alias":"ANTUCO"
+                  }
+               ]
+            },
+            {
+               "id":46600,
+               "nombre":"Arauco",
+               "valor":"Arauco",
+               "alias":"ARAUCO",
+               "comunas":[
+                  {
+                     "id":144,
+                     "nombre":"Arauco",
+                     "valor":"Arauco",
+                     "alias":"ARAUCO"
+                  }
+               ]
+            },
+            {
+               "id":44100,
+               "nombre":"Cabrero",
+               "valor":"Cabrero",
+               "alias":"CABRERO",
+               "comunas":[
+                  {
+                     "id":145,
+                     "nombre":"Cabrero",
+                     "valor":"Cabrero",
+                     "alias":"CABRERO"
+                  }
+               ]
+            },
+            {
+               "id":46900,
+               "nombre":"Canete",
+               "valor":"Canete",
+               "alias":"CANETE",
+               "comunas":[
+                  {
+                     "id":146,
+                     "nombre":"Canete",
+                     "valor":"Canete",
+                     "alias":"CANETE"
+                  }
+               ]
+            },
+            {
+               "id":47200,
+               "nombre":"Chiguayante",
+               "valor":"Chiguayante",
+               "alias":"CHIGUAYANTE",
+               "comunas":[
+                  {
+                     "id":147,
+                     "nombre":"Chiguayante",
+                     "valor":"Chiguayante",
+                     "alias":"CHIGUAYANTE"
+                  }
+               ]
+            },
+            {
+               "id":45500,
+               "nombre":"Concepcion",
+               "valor":"Concepcion",
+               "alias":"CONCEPCION",
+               "comunas":[
+                  {
+                     "id":148,
+                     "nombre":"Concepcion",
+                     "valor":"Concepcion",
+                     "alias":"CONCEPCION"
+                  }
+               ]
+            },
+            {
+               "id":47000,
+               "nombre":"Contulmo",
+               "valor":"Contulmo",
+               "alias":"CONTULMO",
+               "comunas":[
+                  {
+                     "id":149,
+                     "nombre":"Contulmo",
+                     "valor":"Contulmo",
+                     "alias":"CONTULMO"
+                  }
+               ]
+            },
+            {
+               "id":46300,
+               "nombre":"Coronel",
+               "valor":"Coronel",
+               "alias":"CORONEL",
+               "comunas":[
+                  {
+                     "id":150,
+                     "nombre":"Coronel",
+                     "valor":"Coronel",
+                     "alias":"CORONEL"
+                  }
+               ]
+            },
+            {
+               "id":46700,
+               "nombre":"Curanilahue",
+               "valor":"Curanilahue",
+               "alias":"CURANILAHUE",
+               "comunas":[
+                  {
+                     "id":151,
+                     "nombre":"Curanilahue",
+                     "valor":"Curanilahue",
+                     "alias":"CURANILAHUE"
+                  }
+               ]
+            },
+            {
+               "id":45900,
+               "nombre":"Florida",
+               "valor":"Florida",
+               "alias":"FLORIDA",
+               "comunas":[
+                  {
+                     "id":152,
+                     "nombre":"Florida",
+                     "valor":"Florida",
+                     "alias":"FLORIDA"
+                  }
+               ]
+            },
+            {
+               "id":70200,
+               "nombre":"Hualpen",
+               "valor":"Hualpen",
+               "alias":"HUALPEN",
+               "comunas":[
+                  {
+                     "id":153,
+                     "nombre":"Hualpen",
+                     "valor":"Hualpen",
+                     "alias":"HUALPEN"
+                  }
+               ]
+            },
+            {
+               "id":46000,
+               "nombre":"Hualqui",
+               "valor":"Hualqui",
+               "alias":"HUALQUI",
+               "comunas":[
+                  {
+                     "id":154,
+                     "nombre":"Hualqui",
+                     "valor":"Hualqui",
+                     "alias":"HUALQUI"
+                  }
+               ]
+            },
+            {
+               "id":45000,
+               "nombre":"Laja",
+               "valor":"Laja",
+               "alias":"LAJA",
+               "comunas":[
+                  {
+                     "id":155,
+                     "nombre":"Laja",
+                     "valor":"Laja",
+                     "alias":"LAJA"
+                  }
+               ]
+            },
+            {
+               "id":46500,
+               "nombre":"Lebu",
+               "valor":"Lebu",
+               "alias":"LEBU",
+               "comunas":[
+                  {
+                     "id":156,
+                     "nombre":"Lebu",
+                     "valor":"Lebu",
+                     "alias":"LEBU"
+                  }
+               ]
+            },
+            {
+               "id":46800,
+               "nombre":"Los Alamos",
+               "valor":"Los Alamos",
+               "alias":"LOS ALAMOS",
+               "comunas":[
+                  {
+                     "id":157,
+                     "nombre":"Los Alamos",
+                     "valor":"Los Alamos",
+                     "alias":"LOS ALAMOS"
+                  }
+               ]
+            },
+            {
+               "id":44000,
+               "nombre":"Los Angeles",
+               "valor":"Los Angeles",
+               "alias":"LOS ANGELES",
+               "comunas":[
+                  {
+                     "id":158,
+                     "nombre":"Los Angeles",
+                     "valor":"Los Angeles",
+                     "alias":"LOS ANGELES"
+                  }
+               ]
+            },
+            {
+               "id":46200,
+               "nombre":"Lota",
+               "valor":"Lota",
+               "alias":"LOTA",
+               "comunas":[
+                  {
+                     "id":159,
+                     "nombre":"Lota",
+                     "valor":"Lota",
+                     "alias":"LOTA"
+                  }
+               ]
+            },
+            {
+               "id":44700,
+               "nombre":"Mulchen",
+               "valor":"Mulchen",
+               "alias":"MULCHEN",
+               "comunas":[
+                  {
+                     "id":160,
+                     "nombre":"Mulchen",
+                     "valor":"Mulchen",
+                     "alias":"MULCHEN"
+                  }
+               ]
+            },
+            {
+               "id":44900,
+               "nombre":"Nacimiento",
+               "valor":"Nacimiento",
+               "alias":"NACIMIENTO",
+               "comunas":[
+                  {
+                     "id":161,
+                     "nombre":"Nacimiento",
+                     "valor":"Nacimiento",
+                     "alias":"NACIMIENTO"
+                  }
+               ]
+            },
+            {
+               "id":44800,
+               "nombre":"Negrete",
+               "valor":"Negrete",
+               "alias":"NEGRETE",
+               "comunas":[
+                  {
+                     "id":162,
+                     "nombre":"Negrete",
+                     "valor":"Negrete",
+                     "alias":"NEGRETE"
+                  }
+               ]
+            },
+            {
+               "id":45700,
+               "nombre":"Penco",
+               "valor":"Penco",
+               "alias":"PENCO",
+               "comunas":[
+                  {
+                     "id":163,
+                     "nombre":"Penco",
+                     "valor":"Penco",
+                     "alias":"PENCO"
+                  }
+               ]
+            },
+            {
+               "id":44600,
+               "nombre":"Quilaco",
+               "valor":"Quilaco",
+               "alias":"QUILACO",
+               "comunas":[
+                  {
+                     "id":164,
+                     "nombre":"Quilaco",
+                     "valor":"Quilaco",
+                     "alias":"QUILACO"
+                  }
+               ]
+            },
+            {
+               "id":44400,
+               "nombre":"Quilleco",
+               "valor":"Quilleco",
+               "alias":"QUILLECO",
+               "comunas":[
+                  {
+                     "id":165,
+                     "nombre":"Quilleco",
+                     "valor":"Quilleco",
+                     "alias":"QUILLECO"
+                  }
+               ]
+            },
+            {
+               "id":46400,
+               "nombre":"San Pedro De La Paz",
+               "valor":"San Pedro De La Paz",
+               "alias":"SAN PEDRO DE LA PAZ",
+               "comunas":[
+                  {
+                     "id":166,
+                     "nombre":"San Pedro De La Paz",
+                     "valor":"San Pedro De La Paz",
+                     "alias":"SAN PEDRO DE LA PAZ"
+                  }
+               ]
+            },
+            {
+               "id":45100,
+               "nombre":"San Rosendo",
+               "valor":"San Rosendo",
+               "alias":"SAN ROSENDO",
+               "comunas":[
+                  {
+                     "id":167,
+                     "nombre":"San Rosendo",
+                     "valor":"San Rosendo",
+                     "alias":"SAN ROSENDO"
+                  }
+               ]
+            },
+            {
+               "id":44500,
+               "nombre":"Santa Barbara",
+               "valor":"Santa Barbara",
+               "alias":"SANTA BARBARA",
+               "comunas":[
+                  {
+                     "id":168,
+                     "nombre":"Santa Barbara",
+                     "valor":"Santa Barbara",
+                     "alias":"SANTA BARBARA"
+                  }
+               ]
+            },
+            {
+               "id":46100,
+               "nombre":"Santa Juana",
+               "valor":"Santa Juana",
+               "alias":"SANTA JUANA",
+               "comunas":[
+                  {
+                     "id":169,
+                     "nombre":"Santa Juana",
+                     "valor":"Santa Juana",
+                     "alias":"SANTA JUANA"
+                  }
+               ]
+            },
+            {
+               "id":45600,
+               "nombre":"Talcahuano",
+               "valor":"Talcahuano",
+               "alias":"TALCAHUANO",
+               "comunas":[
+                  {
+                     "id":170,
+                     "nombre":"Talcahuano",
+                     "valor":"Talcahuano",
+                     "alias":"TALCAHUANO"
+                  }
+               ]
+            },
+            {
+               "id":47100,
+               "nombre":"Tirua",
+               "valor":"Tirua",
+               "alias":"TIRUA",
+               "comunas":[
+                  {
+                     "id":171,
+                     "nombre":"Tirua",
+                     "valor":"Tirua",
+                     "alias":"TIRUA"
+                  }
+               ]
+            },
+            {
+               "id":45800,
+               "nombre":"Tome",
+               "valor":"Tome",
+               "alias":"TOME",
+               "comunas":[
+                  {
+                     "id":172,
+                     "nombre":"Tome",
+                     "valor":"Tome",
+                     "alias":"TOME"
+                  }
+               ]
+            },
+            {
+               "id":44200,
+               "nombre":"Tucapel",
+               "valor":"Tucapel",
+               "alias":"TUCAPEL",
+               "comunas":[
+                  {
+                     "id":173,
+                     "nombre":"Tucapel",
+                     "valor":"Tucapel",
+                     "alias":"TUCAPEL"
+                  }
+               ]
+            },
+            {
+               "id":45200,
+               "nombre":"Yumbel",
+               "valor":"Yumbel",
+               "alias":"YUMBEL",
+               "comunas":[
+                  {
+                     "id":174,
+                     "nombre":"Yumbel",
+                     "valor":"Yumbel",
+                     "alias":"YUMBEL"
+                  }
+               ]
+            },
+            {
+               "id":42300,
+               "nombre":"Yungay",
+               "valor":"Yungay",
+               "alias":"YUNGAY",
+               "comunas":[
+                  {
+                     "id":346,
+                     "nombre":"Yungay",
+                     "valor":"Yungay",
+                     "alias":"YUNGAY"
+                  }
+               ]
+            }
+         ]
+      },
+      {
+         "id":9,
+         "valor":"Novena Region",
+         "nombre":"Novena Region",
+         "alias":"Región de la Araucanía",
+         "sigla":"IX",
+         "ciudades":[
+            {
+               "id":47500,
+               "nombre":"Angol",
+               "valor":"Angol",
+               "alias":"ANGOL",
+               "comunas":[
+                  {
+                     "id":175,
+                     "nombre":"Angol",
+                     "valor":"Angol",
+                     "alias":"ANGOL"
+                  }
+               ]
+            },
+            {
+               "id":50600,
+               "nombre":"Carahue",
+               "valor":"Carahue",
+               "alias":"CARAHUE",
+               "comunas":[
+                  {
+                     "id":176,
+                     "nombre":"Carahue",
+                     "valor":"Carahue",
+                     "alias":"CARAHUE"
+                  }
+               ]
+            },
+            {
+               "id":71500,
+               "nombre":"Cholchol",
+               "valor":"Cholchol",
+               "alias":"CHOLCHOL",
+               "comunas":[
+                  {
+                     "id":177,
+                     "nombre":"Cholchol",
+                     "valor":"Cholchol",
+                     "alias":"CHOLCHOL"
+                  }
+               ]
+            },
+            {
+               "id":47700,
+               "nombre":"Collipulli",
+               "valor":"Collipulli",
+               "alias":"COLLIPULLI",
+               "comunas":[
+                  {
+                     "id":178,
+                     "nombre":"Collipulli",
+                     "valor":"Collipulli",
+                     "alias":"COLLIPULLI"
+                  }
+               ]
+            },
+            {
+               "id":49400,
+               "nombre":"Cunco",
+               "valor":"Cunco",
+               "alias":"CUNCO",
+               "comunas":[
+                  {
+                     "id":179,
+                     "nombre":"Cunco",
+                     "valor":"Cunco",
+                     "alias":"CUNCO"
+                  }
+               ]
+            },
+            {
+               "id":47900,
+               "nombre":"Curacautin",
+               "valor":"Curacautin",
+               "alias":"CURACAUTIN",
+               "comunas":[
+                  {
+                     "id":180,
+                     "nombre":"Curacautin",
+                     "valor":"Curacautin",
+                     "alias":"CURACAUTIN"
+                  }
+               ]
+            },
+            {
+               "id":49600,
+               "nombre":"Curarrehue",
+               "valor":"Curarrehue",
+               "alias":"CURARREHUE",
+               "comunas":[
+                  {
+                     "id":181,
+                     "nombre":"Curarrehue",
+                     "valor":"Curarrehue",
+                     "alias":"CURARREHUE"
+                  }
+               ]
+            },
+            {
+               "id":48000,
+               "nombre":"Ercilla",
+               "valor":"Ercilla",
+               "alias":"ERCILLA",
+               "comunas":[
+                  {
+                     "id":182,
+                     "nombre":"Ercilla",
+                     "valor":"Ercilla",
+                     "alias":"ERCILLA"
+                  }
+               ]
+            },
+            {
+               "id":49900,
+               "nombre":"Freire",
+               "valor":"Freire",
+               "alias":"FREIRE",
+               "comunas":[
+                  {
+                     "id":183,
+                     "nombre":"Freire",
+                     "valor":"Freire",
+                     "alias":"FREIRE"
+                  }
+               ]
+            },
+            {
+               "id":50800,
+               "nombre":"Galvarino",
+               "valor":"Galvarino",
+               "alias":"GALVARINO",
+               "comunas":[
+                  {
+                     "id":184,
+                     "nombre":"Galvarino",
+                     "valor":"Galvarino",
+                     "alias":"GALVARINO"
+                  }
+               ]
+            },
+            {
+               "id":50100,
+               "nombre":"Gorbea",
+               "valor":"Gorbea",
+               "alias":"GORBEA",
+               "comunas":[
+                  {
+                     "id":185,
+                     "nombre":"Gorbea",
+                     "valor":"Gorbea",
+                     "alias":"GORBEA"
+                  }
+               ]
+            },
+            {
+               "id":49100,
+               "nombre":"Lautaro",
+               "valor":"Lautaro",
+               "alias":"LAUTARO",
+               "comunas":[
+                  {
+                     "id":186,
+                     "nombre":"Lautaro",
+                     "valor":"Lautaro",
+                     "alias":"LAUTARO"
+                  }
+               ]
+            },
+            {
+               "id":50200,
+               "nombre":"Loncoche",
+               "valor":"Loncoche",
+               "alias":"LONCOCHE",
+               "comunas":[
+                  {
+                     "id":187,
+                     "nombre":"Loncoche",
+                     "valor":"Loncoche",
+                     "alias":"LONCOCHE"
+                  }
+               ]
+            },
+            {
+               "id":47800,
+               "nombre":"Lonquimay",
+               "valor":"Lonquimay",
+               "alias":"LONQUIMAY",
+               "comunas":[
+                  {
+                     "id":188,
+                     "nombre":"Lonquimay",
+                     "valor":"Lonquimay",
+                     "alias":"LONQUIMAY"
+                  }
+               ]
+            },
+            {
+               "id":48500,
+               "nombre":"Los Sauces",
+               "valor":"Los Sauces",
+               "alias":"LOS SAUCES",
+               "comunas":[
+                  {
+                     "id":189,
+                     "nombre":"Los Sauces",
+                     "valor":"Los Sauces",
+                     "alias":"LOS SAUCES"
+                  }
+               ]
+            },
+            {
+               "id":48300,
+               "nombre":"Lumaco",
+               "valor":"Lumaco",
+               "alias":"LUMACO",
+               "comunas":[
+                  {
+                     "id":190,
+                     "nombre":"Lumaco",
+                     "valor":"Lumaco",
+                     "alias":"LUMACO"
+                  }
+               ]
+            },
+            {
+               "id":49500,
+               "nombre":"Melipeuco",
+               "valor":"Melipeuco",
+               "alias":"MELIPEUCO",
+               "comunas":[
+                  {
+                     "id":191,
+                     "nombre":"Melipeuco",
+                     "valor":"Melipeuco",
+                     "alias":"MELIPEUCO"
+                  }
+               ]
+            },
+            {
+               "id":50700,
+               "nombre":"Nueva Imperial",
+               "valor":"Nueva Imperial",
+               "alias":"NUEVA IMPERIAL",
+               "comunas":[
+                  {
+                     "id":192,
+                     "nombre":"Nueva Imperial",
+                     "valor":"Nueva Imperial",
+                     "alias":"NUEVA IMPERIAL"
+                  }
+               ]
+            },
+            {
+               "id":50900,
+               "nombre":"Padre Las Casas",
+               "valor":"Padre Las Casas",
+               "alias":"PADRE LAS CASAS",
+               "comunas":[
+                  {
+                     "id":193,
+                     "nombre":"Padre Las Casas",
+                     "valor":"Padre Las Casas",
+                     "alias":"PADRE LAS CASAS"
+                  }
+               ]
+            },
+            {
+               "id":49200,
+               "nombre":"Perquenco",
+               "valor":"Perquenco",
+               "alias":"PERQUENCO",
+               "comunas":[
+                  {
+                     "id":194,
+                     "nombre":"Perquenco",
+                     "valor":"Perquenco",
+                     "alias":"PERQUENCO"
+                  }
+               ]
+            },
+            {
+               "id":50000,
+               "nombre":"Pitrufquen",
+               "valor":"Pitrufquen",
+               "alias":"PITRUFQUEN",
+               "comunas":[
+                  {
+                     "id":195,
+                     "nombre":"Pitrufquen",
+                     "valor":"Pitrufquen",
+                     "alias":"PITRUFQUEN"
+                  }
+               ]
+            },
+            {
+               "id":49700,
+               "nombre":"Pucon",
+               "valor":"Pucon",
+               "alias":"PUCON",
+               "comunas":[
+                  {
+                     "id":196,
+                     "nombre":"Pucon",
+                     "valor":"Pucon",
+                     "alias":"PUCON"
+                  }
+               ]
+            },
+            {
+               "id":48400,
+               "nombre":"Puren",
+               "valor":"Puren",
+               "alias":"PUREN",
+               "comunas":[
+                  {
+                     "id":197,
+                     "nombre":"Puren",
+                     "valor":"Puren",
+                     "alias":"PUREN"
+                  }
+               ]
+            },
+            {
+               "id":47600,
+               "nombre":"Renaico",
+               "valor":"Renaico",
+               "alias":"RENAICO",
+               "comunas":[
+                  {
+                     "id":198,
+                     "nombre":"Renaico",
+                     "valor":"Renaico",
+                     "alias":"RENAICO"
+                  }
+               ]
+            },
+            {
+               "id":50500,
+               "nombre":"Saavedra",
+               "valor":"Saavedra",
+               "alias":"SAAVEDRA",
+               "comunas":[
+                  {
+                     "id":199,
+                     "nombre":"Saavedra",
+                     "valor":"Saavedra",
+                     "alias":"SAAVEDRA"
+                  }
+               ]
+            },
+            {
+               "id":49000,
+               "nombre":"Temuco",
+               "valor":"Temuco",
+               "alias":"TEMUCO",
+               "comunas":[
+                  {
+                     "id":200,
+                     "nombre":"Temuco",
+                     "valor":"Temuco",
+                     "alias":"TEMUCO"
+                  }
+               ]
+            },
+            {
+               "id":50400,
+               "nombre":"Teodoro Schmidt",
+               "valor":"Teodoro Schmidt",
+               "alias":"TEODORO SCHMIDT",
+               "comunas":[
+                  {
+                     "id":201,
+                     "nombre":"Teodoro Schmidt",
+                     "valor":"Teodoro Schmidt",
+                     "alias":"TEODORO SCHMIDT"
+                  }
+               ]
+            },
+            {
+               "id":50300,
+               "nombre":"Tolten",
+               "valor":"Tolten",
+               "alias":"TOLTEN",
+               "comunas":[
+                  {
+                     "id":202,
+                     "nombre":"Tolten",
+                     "valor":"Tolten",
+                     "alias":"TOLTEN"
+                  }
+               ]
+            },
+            {
+               "id":48200,
+               "nombre":"Traiguen",
+               "valor":"Traiguen",
+               "alias":"TRAIGUEN",
+               "comunas":[
+                  {
+                     "id":203,
+                     "nombre":"Traiguen",
+                     "valor":"Traiguen",
+                     "alias":"TRAIGUEN"
+                  }
+               ]
+            },
+            {
+               "id":48100,
+               "nombre":"Victoria",
+               "valor":"Victoria",
+               "alias":"VICTORIA",
+               "comunas":[
+                  {
+                     "id":204,
+                     "nombre":"Victoria",
+                     "valor":"Victoria",
+                     "alias":"VICTORIA"
+                  }
+               ]
+            },
+            {
+               "id":49300,
+               "nombre":"Vilcun",
+               "valor":"Vilcun",
+               "alias":"VILCUN",
+               "comunas":[
+                  {
+                     "id":205,
+                     "nombre":"Vilcun",
+                     "valor":"Vilcun",
+                     "alias":"VILCUN"
+                  }
+               ]
+            },
+            {
+               "id":49800,
+               "nombre":"Villarrica",
+               "valor":"Villarrica",
+               "alias":"VILLARRICA",
+               "comunas":[
+                  {
+                     "id":206,
+                     "nombre":"Villarrica",
+                     "valor":"Villarrica",
+                     "alias":"VILLARRICA"
+                  }
+               ]
+            }
+         ]
+      },
+      {
+         "id":10,
+         "valor":"Decima Region",
+         "nombre":"Decima Region",
+         "alias":"Región de Los Lagos",
+         "sigla":"X",
+         "ciudades":[
+            {
+               "id":54600,
+               "nombre":"Ancud",
+               "valor":"Ancud",
+               "alias":"ANCUD",
+               "comunas":[
+                  {
+                     "id":207,
+                     "nombre":"Ancud",
+                     "valor":"Ancud",
+                     "alias":"ANCUD"
+                  }
+               ]
+            },
+            {
+               "id":53800,
+               "nombre":"Calbuco",
+               "valor":"Calbuco",
+               "alias":"CALBUCO",
+               "comunas":[
+                  {
+                     "id":208,
+                     "nombre":"Calbuco",
+                     "valor":"Calbuco",
+                     "alias":"CALBUCO"
+                  }
+               ]
+            },
+            {
+               "id":54500,
+               "nombre":"Castro",
+               "valor":"Castro",
+               "alias":"CASTRO",
+               "comunas":[
+                  {
+                     "id":209,
+                     "nombre":"Castro",
+                     "valor":"Castro",
+                     "alias":"CASTRO"
+                  }
+               ]
+            },
+            {
+               "id":56000,
+               "nombre":"Chaiten",
+               "valor":"Chaiten",
+               "alias":"CHAITEN",
+               "comunas":[
+                  {
+                     "id":210,
+                     "nombre":"Chaiten",
+                     "valor":"Chaiten",
+                     "alias":"CHAITEN"
+                  }
+               ]
+            },
+            {
+               "id":55200,
+               "nombre":"Chonchi",
+               "valor":"Chonchi",
+               "alias":"CHONCHI",
+               "comunas":[
+                  {
+                     "id":211,
+                     "nombre":"Chonchi",
+                     "valor":"Chonchi",
+                     "alias":"CHONCHI"
+                  }
+               ]
+            },
+            {
+               "id":53700,
+               "nombre":"Cochamo",
+               "valor":"Cochamo",
+               "alias":"COCHAMO",
+               "comunas":[
+                  {
+                     "id":212,
+                     "nombre":"Cochamo",
+                     "valor":"Cochamo",
+                     "alias":"COCHAMO"
+                  }
+               ]
+            },
+            {
+               "id":54900,
+               "nombre":"Curaco De Velez",
+               "valor":"Curaco De Velez",
+               "alias":"CURACO DE VELEZ",
+               "comunas":[
+                  {
+                     "id":213,
+                     "nombre":"Curaco De Velez",
+                     "valor":"Curaco De Velez",
+                     "alias":"CURACO DE VELEZ"
+                  }
+               ]
+            },
+            {
+               "id":54800,
+               "nombre":"Dalcahue",
+               "valor":"Dalcahue",
+               "alias":"DALCAHUE",
+               "comunas":[
+                  {
+                     "id":214,
+                     "nombre":"Dalcahue",
+                     "valor":"Dalcahue",
+                     "alias":"DALCAHUE"
+                  }
+               ]
+            },
+            {
+               "id":54100,
+               "nombre":"Fresia",
+               "valor":"Fresia",
+               "alias":"FRESIA",
+               "comunas":[
+                  {
+                     "id":215,
+                     "nombre":"Fresia",
+                     "valor":"Fresia",
+                     "alias":"FRESIA"
+                  }
+               ]
+            },
+            {
+               "id":54300,
+               "nombre":"Frutillar",
+               "valor":"Frutillar",
+               "alias":"FRUTILLAR",
+               "comunas":[
+                  {
+                     "id":216,
+                     "nombre":"Frutillar",
+                     "valor":"Frutillar",
+                     "alias":"FRUTILLAR"
+                  }
+               ]
+            },
+            {
+               "id":56200,
+               "nombre":"Futaleufu",
+               "valor":"Futaleufu",
+               "alias":"FUTALEUFU",
+               "comunas":[
+                  {
+                     "id":217,
+                     "nombre":"Futaleufu",
+                     "valor":"Futaleufu",
+                     "alias":"FUTALEUFU"
+                  }
+               ]
+            },
+            {
+               "id":56100,
+               "nombre":"Hualaihue",
+               "valor":"Hualaihue",
+               "alias":"HUALAIHUE",
+               "comunas":[
+                  {
+                     "id":218,
+                     "nombre":"Hualaihue",
+                     "valor":"Hualaihue",
+                     "alias":"HUALAIHUE"
+                  }
+               ]
+            },
+            {
+               "id":54200,
+               "nombre":"Llanquihue",
+               "valor":"Llanquihue",
+               "alias":"LLANQUIHUE",
+               "comunas":[
+                  {
+                     "id":219,
+                     "nombre":"Llanquihue",
+                     "valor":"Llanquihue",
+                     "alias":"LLANQUIHUE"
+                  }
+               ]
+            },
+            {
+               "id":54000,
+               "nombre":"Los Muermos",
+               "valor":"Los Muermos",
+               "alias":"LOS MUERMOS",
+               "comunas":[
+                  {
+                     "id":220,
+                     "nombre":"Los Muermos",
+                     "valor":"Los Muermos",
+                     "alias":"LOS MUERMOS"
+                  }
+               ]
+            },
+            {
+               "id":53900,
+               "nombre":"Maullin",
+               "valor":"Maullin",
+               "alias":"MAULLIN",
+               "comunas":[
+                  {
+                     "id":221,
+                     "nombre":"Maullin",
+                     "valor":"Maullin",
+                     "alias":"MAULLIN"
+                  }
+               ]
+            },
+            {
+               "id":52500,
+               "nombre":"Osorno",
+               "valor":"Osorno",
+               "alias":"OSORNO",
+               "comunas":[
+                  {
+                     "id":222,
+                     "nombre":"Osorno",
+                     "valor":"Osorno",
+                     "alias":"OSORNO"
+                  }
+               ]
+            },
+            {
+               "id":56300,
+               "nombre":"Palena",
+               "valor":"Palena",
+               "alias":"PALENA",
+               "comunas":[
+                  {
+                     "id":223,
+                     "nombre":"Palena",
+                     "valor":"Palena",
+                     "alias":"PALENA"
+                  }
+               ]
+            },
+            {
+               "id":53500,
+               "nombre":"Puerto Montt",
+               "valor":"Puerto Montt",
+               "alias":"PUERTO MONTT",
+               "comunas":[
+                  {
+                     "id":224,
+                     "nombre":"Puerto Montt",
+                     "valor":"Puerto Montt",
+                     "alias":"PUERTO MONTT"
+                  }
+               ]
+            },
+            {
+               "id":52800,
+               "nombre":"Puerto Octay",
+               "valor":"Puerto Octay",
+               "alias":"PUERTO OCTAY",
+               "comunas":[
+                  {
+                     "id":225,
+                     "nombre":"Puerto Octay",
+                     "valor":"Puerto Octay",
+                     "alias":"PUERTO OCTAY"
+                  }
+               ]
+            },
+            {
+               "id":53600,
+               "nombre":"Puerto Varas",
+               "valor":"Puerto Varas",
+               "alias":"PUERTO VARAS",
+               "comunas":[
+                  {
+                     "id":226,
+                     "nombre":"Puerto Varas",
+                     "valor":"Puerto Varas",
+                     "alias":"PUERTO VARAS"
+                  }
+               ]
+            },
+            {
+               "id":55100,
+               "nombre":"Puqueldon",
+               "valor":"Puqueldon",
+               "alias":"PUQUELDON",
+               "comunas":[
+                  {
+                     "id":227,
+                     "nombre":"Puqueldon",
+                     "valor":"Puqueldon",
+                     "alias":"PUQUELDON"
+                  }
+               ]
+            },
+            {
+               "id":52900,
+               "nombre":"Purranque",
+               "valor":"Purranque",
+               "alias":"PURRANQUE",
+               "comunas":[
+                  {
+                     "id":228,
+                     "nombre":"Purranque",
+                     "valor":"Purranque",
+                     "alias":"PURRANQUE"
+                  }
+               ]
+            },
+            {
+               "id":52700,
+               "nombre":"Puyehue",
+               "valor":"Puyehue",
+               "alias":"PUYEHUE",
+               "comunas":[
+                  {
+                     "id":229,
+                     "nombre":"Puyehue",
+                     "valor":"Puyehue",
+                     "alias":"PUYEHUE"
+                  }
+               ]
+            },
+            {
+               "id":55300,
+               "nombre":"Queilen",
+               "valor":"Queilen",
+               "alias":"QUEILEN",
+               "comunas":[
+                  {
+                     "id":230,
+                     "nombre":"Queilen",
+                     "valor":"Queilen",
+                     "alias":"QUEILEN"
+                  }
+               ]
+            },
+            {
+               "id":55400,
+               "nombre":"Quellon",
+               "valor":"Quellon",
+               "alias":"QUELLON",
+               "comunas":[
+                  {
+                     "id":231,
+                     "nombre":"Quellon",
+                     "valor":"Quellon",
+                     "alias":"QUELLON"
+                  }
+               ]
+            },
+            {
+               "id":54700,
+               "nombre":"Quemchi",
+               "valor":"Quemchi",
+               "alias":"QUEMCHI",
+               "comunas":[
+                  {
+                     "id":232,
+                     "nombre":"Quemchi",
+                     "valor":"Quemchi",
+                     "alias":"QUEMCHI"
+                  }
+               ]
+            },
+            {
+               "id":55000,
+               "nombre":"Quinchao",
+               "valor":"Quinchao",
+               "alias":"QUINCHAO",
+               "comunas":[
+                  {
+                     "id":233,
+                     "nombre":"Quinchao",
+                     "valor":"Quinchao",
+                     "alias":"QUINCHAO"
+                  }
+               ]
+            },
+            {
+               "id":53000,
+               "nombre":"Rio Negro",
+               "valor":"Rio Negro",
+               "alias":"RIO NEGRO",
+               "comunas":[
+                  {
+                     "id":234,
+                     "nombre":"Rio Negro",
+                     "valor":"Rio Negro",
+                     "alias":"RIO NEGRO"
+                  }
+               ]
+            },
+            {
+               "id":53100,
+               "nombre":"San Juan De La Costa",
+               "valor":"San Juan De La Costa",
+               "alias":"SAN JUAN DE LA COSTA",
+               "comunas":[
+                  {
+                     "id":236,
+                     "nombre":"San Juan De La Costa",
+                     "valor":"San Juan De La Costa",
+                     "alias":"SAN JUAN DE LA COSTA"
+                  }
+               ]
+            },
+            {
+               "id":52600,
+               "nombre":"San Pablo",
+               "valor":"San Pablo",
+               "alias":"SAN PABLO",
+               "comunas":[
+                  {
+                     "id":237,
+                     "nombre":"San Pablo",
+                     "valor":"San Pablo",
+                     "alias":"SAN PABLO"
+                  }
+               ]
+            }
+         ]
+      },
+      {
+         "id":11,
+         "valor":"Decima Primera Region",
+         "nombre":"Decima Primera Region",
+         "alias":"Región de Aysén",
+         "sigla":"XI",
+         "ciudades":[
+            {
+               "id":57000,
+               "nombre":"Aisen",
+               "valor":"Aisen",
+               "alias":"AISEN",
+               "comunas":[
+                  {
+                     "id":238,
+                     "nombre":"Aisen",
+                     "valor":"Aisen",
+                     "alias":"AISEN"
+                  }
+               ]
+            },
+            {
+               "id":57500,
+               "nombre":"Chile Chico",
+               "valor":"Chile Chico",
+               "alias":"CHILE CHICO",
+               "comunas":[
+                  {
+                     "id":239,
+                     "nombre":"Chile Chico",
+                     "valor":"Chile Chico",
+                     "alias":"CHILE CHICO"
+                  }
+               ]
+            },
+            {
+               "id":57100,
+               "nombre":"Cisnes",
+               "valor":"Cisnes",
+               "alias":"CISNES",
+               "comunas":[
+                  {
+                     "id":240,
+                     "nombre":"Cisnes",
+                     "valor":"Cisnes",
+                     "alias":"CISNES"
+                  }
+               ]
+            },
+            {
+               "id":58000,
+               "nombre":"Cochrane",
+               "valor":"Cochrane",
+               "alias":"COCHRANE",
+               "comunas":[
+                  {
+                     "id":241,
+                     "nombre":"Cochrane",
+                     "valor":"Cochrane",
+                     "alias":"COCHRANE"
+                  }
+               ]
+            },
+            {
+               "id":56500,
+               "nombre":"Coyhaique",
+               "valor":"Coyhaique",
+               "alias":"COYHAIQUE",
+               "comunas":[
+                  {
+                     "id":242,
+                     "nombre":"Coyhaique",
+                     "valor":"Coyhaique",
+                     "alias":"COYHAIQUE"
+                  }
+               ]
+            },
+            {
+               "id":57200,
+               "nombre":"Guaitecas",
+               "valor":"Guaitecas",
+               "alias":"GUAITECAS",
+               "comunas":[
+                  {
+                     "id":243,
+                     "nombre":"Guaitecas",
+                     "valor":"Guaitecas",
+                     "alias":"GUAITECAS"
+                  }
+               ]
+            },
+            {
+               "id":56600,
+               "nombre":"Lago Verde",
+               "valor":"Lago Verde",
+               "alias":"LAGO VERDE",
+               "comunas":[
+                  {
+                     "id":244,
+                     "nombre":"Lago Verde",
+                     "valor":"Lago Verde",
+                     "alias":"LAGO VERDE"
+                  }
+               ]
+            },
+            {
+               "id":58100,
+               "nombre":"O'Higgins",
+               "valor":"O'Higgins",
+               "alias":"O HIGGINS",
+               "comunas":[
+                  {
+                     "id":245,
+                     "nombre":"O'Higgins",
+                     "valor":"O'Higgins",
+                     "alias":"O HIGGINS"
+                  }
+               ]
+            },
+            {
+               "id":57600,
+               "nombre":"Rio Ibanez",
+               "valor":"Rio Ibanez",
+               "alias":"RIO IBANEZ",
+               "comunas":[
+                  {
+                     "id":246,
+                     "nombre":"Rio Ibanez",
+                     "valor":"Rio Ibanez",
+                     "alias":"RIO IBANEZ"
+                  }
+               ]
+            },
+            {
+               "id":58200,
+               "nombre":"Tortel",
+               "valor":"Tortel",
+               "alias":"TORTEL",
+               "comunas":[
+                  {
+                     "id":247,
+                     "nombre":"Tortel",
+                     "valor":"Tortel",
+                     "alias":"TORTEL"
+                  }
+               ]
+            }
+         ]
+      },
+      {
+         "id":12,
+         "valor":"Decima Segunda Region",
+         "nombre":"Decima Segunda Region",
+         "alias":"Región de Magallanes",
+         "sigla":"XII",
+         "ciudades":[
+            {
+               "id":60100,
+               "nombre":"Antartica",
+               "valor":"Antartica",
+               "alias":"ANTARTICA",
+               "comunas":[
+                  {
+                     "id":248,
+                     "nombre":"Antartica",
+                     "valor":"Antartica",
+                     "alias":"ANTARTICA"
+                  }
+               ]
+            },
+            {
+               "id":60000,
+               "nombre":"CABO DE HORNOS",
+               "valor":"CABO DE HORNOS",
+               "alias":"CABO DE HORNOS",
+               "comunas":[
+                  {
+                     "id":249,
+                     "nombre":"CABO DE HORNOS",
+                     "valor":"CABO DE HORNOS",
+                     "alias":"CABO DE HORNOS"
+                  }
+               ]
+            },
+            {
+               "id":59200,
+               "nombre":"Laguna Blanca",
+               "valor":"Laguna Blanca",
+               "alias":"LAGUNA BLANCA",
+               "comunas":[
+                  {
+                     "id":250,
+                     "nombre":"Laguna Blanca",
+                     "valor":"Laguna Blanca",
+                     "alias":"LAGUNA BLANCA"
+                  }
+               ]
+            },
+            {
+               "id":58500,
+               "nombre":"Natales",
+               "valor":"Natales",
+               "alias":"NATALES",
+               "comunas":[
+                  {
+                     "id":251,
+                     "nombre":"Natales",
+                     "valor":"Natales",
+                     "alias":"NATALES"
+                  }
+               ]
+            },
+            {
+               "id":59500,
+               "nombre":"Porvenir",
+               "valor":"Porvenir",
+               "alias":"PORVENIR",
+               "comunas":[
+                  {
+                     "id":252,
+                     "nombre":"Porvenir",
+                     "valor":"Porvenir",
+                     "alias":"PORVENIR"
+                  }
+               ]
+            },
+            {
+               "id":59600,
+               "nombre":"Primavera",
+               "valor":"Primavera",
+               "alias":"PRIMAVERA",
+               "comunas":[
+                  {
+                     "id":253,
+                     "nombre":"Primavera",
+                     "valor":"Primavera",
+                     "alias":"PRIMAVERA"
+                  }
+               ]
+            },
+            {
+               "id":59000,
+               "nombre":"Punta Arenas",
+               "valor":"Punta Arenas",
+               "alias":"PUNTA ARENAS",
+               "comunas":[
+                  {
+                     "id":254,
+                     "nombre":"Punta Arenas",
+                     "valor":"Punta Arenas",
+                     "alias":"PUNTA ARENAS"
+                  }
+               ]
+            },
+            {
+               "id":59100,
+               "nombre":"Rio Verde",
+               "valor":"Rio Verde",
+               "alias":"RIO VERDE",
+               "comunas":[
+                  {
+                     "id":255,
+                     "nombre":"Rio Verde",
+                     "valor":"Rio Verde",
+                     "alias":"RIO VERDE"
+                  }
+               ]
+            },
+            {
+               "id":59300,
+               "nombre":"San Gregorio",
+               "valor":"San Gregorio",
+               "alias":"SAN GREGORIO",
+               "comunas":[
+                  {
+                     "id":256,
+                     "nombre":"San Gregorio",
+                     "valor":"San Gregorio",
+                     "alias":"SAN GREGORIO"
+                  }
+               ]
+            },
+            {
+               "id":59700,
+               "nombre":"Timaukel",
+               "valor":"Timaukel",
+               "alias":"TIMAUKEL",
+               "comunas":[
+                  {
+                     "id":257,
+                     "nombre":"Timaukel",
+                     "valor":"Timaukel",
+                     "alias":"TIMAUKEL"
+                  }
+               ]
+            },
+            {
+               "id":58600,
+               "nombre":"Torres Del Paine",
+               "valor":"Torres Del Paine",
+               "alias":"TORRES DEL PAINE",
+               "comunas":[
+                  {
+                     "id":258,
+                     "nombre":"Torres Del Paine",
+                     "valor":"Torres Del Paine",
+                     "alias":"TORRES DEL PAINE"
+                  }
+               ]
+            }
+         ]
+      },
+      {
+         "id":14,
+         "valor":"Decima Cuarta Region",
+         "nombre":"Decima Cuarta Region",
+         "alias":"Región de Los Ríos",
+         "sigla":"XIV",
+         "ciudades":[
+            {
+               "id":51500,
+               "nombre":"Corral",
+               "valor":"Corral",
+               "alias":"CORRAL",
+               "comunas":[
+                  {
+                     "id":311,
+                     "nombre":"Corral",
+                     "valor":"Corral",
+                     "alias":"CORRAL"
+                  }
+               ]
+            },
+            {
+               "id":51400,
+               "nombre":"Futrono",
+               "valor":"Futrono",
+               "alias":"FUTRONO",
+               "comunas":[
+                  {
+                     "id":312,
+                     "nombre":"Futrono",
+                     "valor":"Futrono",
+                     "alias":"FUTRONO"
+                  }
+               ]
+            },
+            {
+               "id":52100,
+               "nombre":"Lago Ranco",
+               "valor":"Lago Ranco",
+               "alias":"LAGO RANCO",
+               "comunas":[
+                  {
+                     "id":313,
+                     "nombre":"Lago Ranco",
+                     "valor":"Lago Ranco",
+                     "alias":"LAGO RANCO"
+                  }
+               ]
+            },
+            {
+               "id":51200,
+               "nombre":"Lanco",
+               "valor":"Lanco",
+               "alias":"LANCO",
+               "comunas":[
+                  {
+                     "id":314,
+                     "nombre":"Lanco",
+                     "valor":"Lanco",
+                     "alias":"LANCO"
+                  }
+               ]
+            },
+            {
+               "id":51800,
+               "nombre":"La Union",
+               "valor":"La Union",
+               "alias":"LA UNION",
+               "comunas":[
+                  {
+                     "id":315,
+                     "nombre":"La Union",
+                     "valor":"La Union",
+                     "alias":"LA UNION"
+                  }
+               ]
+            },
+            {
+               "id":51300,
+               "nombre":"Los Lagos",
+               "valor":"Los Lagos",
+               "alias":"LOS LAGOS",
+               "comunas":[
+                  {
+                     "id":316,
+                     "nombre":"Los Lagos",
+                     "valor":"Los Lagos",
+                     "alias":"LOS LAGOS"
+                  }
+               ]
+            },
+            {
+               "id":51600,
+               "nombre":"Mafil",
+               "valor":"Mafil",
+               "alias":"MAFIL",
+               "comunas":[
+                  {
+                     "id":317,
+                     "nombre":"Mafil",
+                     "valor":"Mafil",
+                     "alias":"MAFIL"
+                  }
+               ]
+            },
+            {
+               "id":51900,
+               "nombre":"Paillaco",
+               "valor":"Paillaco",
+               "alias":"PAILLACO",
+               "comunas":[
+                  {
+                     "id":318,
+                     "nombre":"Paillaco",
+                     "valor":"Paillaco",
+                     "alias":"PAILLACO"
+                  }
+               ]
+            },
+            {
+               "id":51700,
+               "nombre":"Panguipulli",
+               "valor":"Panguipulli",
+               "alias":"PANGUIPULLI",
+               "comunas":[
+                  {
+                     "id":319,
+                     "nombre":"Panguipulli",
+                     "valor":"Panguipulli",
+                     "alias":"PANGUIPULLI"
+                  }
+               ]
+            },
+            {
+               "id":52000,
+               "nombre":"Rio Bueno",
+               "valor":"Rio Bueno",
+               "alias":"RIO BUENO",
+               "comunas":[
+                  {
+                     "id":320,
+                     "nombre":"Rio Bueno",
+                     "valor":"Rio Bueno",
+                     "alias":"RIO BUENO"
+                  }
+               ]
+            },
+            {
+               "id":51100,
+               "nombre":"San Jose De La Mariquina",
+               "valor":"San Jose De La Mariquina",
+               "alias":"SAN JOSE DE LA MARIQUINA",
+               "comunas":[
+                  {
+                     "id":235,
+                     "nombre":"San Jose De La Mariquina",
+                     "valor":"San Jose De La Mariquina",
+                     "alias":"SAN JOSE DE LA MARIQUINA"
+                  }
+               ]
+            },
+            {
+               "id":51000,
+               "nombre":"Valdivia",
+               "valor":"Valdivia",
+               "alias":"VALDIVIA",
+               "comunas":[
+                  {
+                     "id":321,
+                     "nombre":"Valdivia",
+                     "valor":"Valdivia",
+                     "alias":"VALDIVIA"
+                  }
+               ]
+            }
+         ]
+      },
+      {
+         "id":15,
+         "valor":"Decima Quinta Region",
+         "nombre":"Decima Quinta Region",
+         "alias":"Región de Arica y Parinacota",
+         "sigla":"XV",
+         "ciudades":[
+            {
+               "id":20100,
+               "nombre":"Arica",
+               "valor":"Arica",
+               "alias":"ARICA",
+               "comunas":[
+                  {
+                     "id":324,
+                     "nombre":"Arica",
+                     "valor":"Arica",
+                     "alias":"ARICA"
+                  }
+               ]
+            },
+            {
+               "id":20200,
+               "nombre":"Camarones",
+               "valor":"Camarones",
+               "alias":"CAMARONES",
+               "comunas":[
+                  {
+                     "id":325,
+                     "nombre":"Camarones",
+                     "valor":"Camarones",
+                     "alias":"CAMARONES"
+                  }
+               ]
+            },
+            {
+               "id":20600,
+               "nombre":"General Lagos",
+               "valor":"General Lagos",
+               "alias":"GENERAL LAGOS",
+               "comunas":[
+                  {
+                     "id":323,
+                     "nombre":"General Lagos",
+                     "valor":"General Lagos",
+                     "alias":"GENERAL LAGOS"
+                  }
+               ]
+            },
+            {
+               "id":20500,
+               "nombre":"Putre",
+               "valor":"Putre",
+               "alias":"PUTRE",
+               "comunas":[
+                  {
+                     "id":322,
+                     "nombre":"Putre",
+                     "valor":"Putre",
+                     "alias":"PUTRE"
+                  }
+               ]
+            }
+         ]
+      },
+      {
+         "id":16,
+         "valor":"Decima Sexta Region",
+         "nombre":"Decima Sexta Region",
+         "alias":"Región de Ñuble",
+         "sigla":"XVI",
+         "ciudades":[
+            {
+               "id":42500,
+               "nombre":"Bulnes",
+               "valor":"Bulnes",
+               "alias":"BULNES",
+               "comunas":[
+                  {
+                     "id":326,
+                     "nombre":"Bulnes",
+                     "valor":"Bulnes",
+                     "alias":"BULNES"
+                  }
+               ]
+            },
+            {
+               "id":41500,
+               "nombre":"Chillan",
+               "valor":"Chillan",
+               "alias":"CHILLAN",
+               "comunas":[
+                  {
+                     "id":327,
+                     "nombre":"Chillan",
+                     "valor":"Chillan",
+                     "alias":"CHILLAN"
+                  }
+               ]
+            },
+            {
+               "id":43500,
+               "nombre":"Chillan Viejo",
+               "valor":"Chillan Viejo",
+               "alias":"CHILLAN VIEJO",
+               "comunas":[
+                  {
+                     "id":328,
+                     "nombre":"Chillan Viejo",
+                     "valor":"Chillan Viejo",
+                     "alias":"CHILLAN VIEJO"
+                  }
+               ]
+            },
+            {
+               "id":43100,
+               "nombre":"Cobquecura",
+               "valor":"Cobquecura",
+               "alias":"COBQUECURA",
+               "comunas":[
+                  {
+                     "id":329,
+                     "nombre":"Cobquecura",
+                     "valor":"Cobquecura",
+                     "alias":"COBQUECURA"
+                  }
+               ]
+            },
+            {
+               "id":42900,
+               "nombre":"Coelemu",
+               "valor":"Coelemu",
+               "alias":"COELEMU",
+               "comunas":[
+                  {
+                     "id":330,
+                     "nombre":"Coelemu",
+                     "valor":"Coelemu",
+                     "alias":"COELEMU"
+                  }
+               ]
+            },
+            {
+               "id":41900,
+               "nombre":"Coihueco",
+               "valor":"Coihueco",
+               "alias":"COIHUECO",
+               "comunas":[
+                  {
+                     "id":331,
+                     "nombre":"Coihueco",
+                     "valor":"Coihueco",
+                     "alias":"COIHUECO"
+                  }
+               ]
+            },
+            {
+               "id":42200,
+               "nombre":"El Carmen",
+               "valor":"El Carmen",
+               "alias":"EL CARMEN",
+               "comunas":[
+                  {
+                     "id":332,
+                     "nombre":"El Carmen",
+                     "valor":"El Carmen",
+                     "alias":"EL CARMEN"
+                  }
+               ]
+            },
+            {
+               "id":43300,
+               "nombre":"Ninhue",
+               "valor":"Ninhue",
+               "alias":"NINHUE",
+               "comunas":[
+                  {
+                     "id":333,
+                     "nombre":"Ninhue",
+                     "valor":"Ninhue",
+                     "alias":"NINHUE"
+                  }
+               ]
+            },
+            {
+               "id":41700,
+               "nombre":"Niquen",
+               "valor":"Niquen",
+               "alias":"NIQUEN",
+               "comunas":[
+                  {
+                     "id":334,
+                     "nombre":"Niquen",
+                     "valor":"Niquen",
+                     "alias":"NIQUEN"
+                  }
+               ]
+            },
+            {
+               "id":42400,
+               "nombre":"Pemuco",
+               "valor":"Pemuco",
+               "alias":"PEMUCO",
+               "comunas":[
+                  {
+                     "id":335,
+                     "nombre":"Pemuco",
+                     "valor":"Pemuco",
+                     "alias":"PEMUCO"
+                  }
+               ]
+            },
+            {
+               "id":42000,
+               "nombre":"Pinto",
+               "valor":"Pinto",
+               "alias":"PINTO",
+               "comunas":[
+                  {
+                     "id":336,
+                     "nombre":"Pinto",
+                     "valor":"Pinto",
+                     "alias":"PINTO"
+                  }
+               ]
+            },
+            {
+               "id":42800,
+               "nombre":"Portezuelo",
+               "valor":"Portezuelo",
+               "alias":"PORTEZUELO",
+               "comunas":[
+                  {
+                     "id":337,
+                     "nombre":"Portezuelo",
+                     "valor":"Portezuelo",
+                     "alias":"PORTEZUELO"
+                  }
+               ]
+            },
+            {
+               "id":42600,
+               "nombre":"Quillon",
+               "valor":"Quillon",
+               "alias":"QUILLON",
+               "comunas":[
+                  {
+                     "id":338,
+                     "nombre":"Quillon",
+                     "valor":"Quillon",
+                     "alias":"QUILLON"
+                  }
+               ]
+            },
+            {
+               "id":43200,
+               "nombre":"Quirihue",
+               "valor":"Quirihue",
+               "alias":"QUIRIHUE",
+               "comunas":[
+                  {
+                     "id":339,
+                     "nombre":"Quirihue",
+                     "valor":"Quirihue",
+                     "alias":"QUIRIHUE"
+                  }
+               ]
+            },
+            {
+               "id":42700,
+               "nombre":"Ranquil",
+               "valor":"Ranquil",
+               "alias":"RANQUIL",
+               "comunas":[
+                  {
+                     "id":340,
+                     "nombre":"Ranquil",
+                     "valor":"Ranquil",
+                     "alias":"RANQUIL"
+                  }
+               ]
+            },
+            {
+               "id":41600,
+               "nombre":"San Carlos",
+               "valor":"San Carlos",
+               "alias":"SAN CARLOS",
+               "comunas":[
+                  {
+                     "id":341,
+                     "nombre":"San Carlos",
+                     "valor":"San Carlos",
+                     "alias":"SAN CARLOS"
+                  }
+               ]
+            },
+            {
+               "id":41800,
+               "nombre":"San Fabian",
+               "valor":"San Fabian",
+               "alias":"SAN FABIAN",
+               "comunas":[
+                  {
+                     "id":342,
+                     "nombre":"San Fabian",
+                     "valor":"San Fabian",
+                     "alias":"SAN FABIAN"
+                  }
+               ]
+            },
+            {
+               "id":42100,
+               "nombre":"San Ignacio",
+               "valor":"San Ignacio",
+               "alias":"SAN IGNACIO",
+               "comunas":[
+                  {
+                     "id":343,
+                     "nombre":"San Ignacio",
+                     "valor":"San Ignacio",
+                     "alias":"SAN IGNACIO"
+                  }
+               ]
+            },
+            {
+               "id":43400,
+               "nombre":"San Nicolas",
+               "valor":"San Nicolas",
+               "alias":"SAN NICOLAS",
+               "comunas":[
+                  {
+                     "id":344,
+                     "nombre":"San Nicolas",
+                     "valor":"San Nicolas",
+                     "alias":"SAN NICOLAS"
+                  }
+               ]
+            },
+            {
+               "id":43000,
+               "nombre":"Trehuaco",
+               "valor":"Trehuaco",
+               "alias":"TREHUACO",
+               "comunas":[
+                  {
+                     "id":345,
+                     "nombre":"Trehuaco",
+                     "valor":"Trehuaco",
+                     "alias":"TREHUACO"
+                  }
+               ]
+            }
+         ]
+      }
+   ]
+}

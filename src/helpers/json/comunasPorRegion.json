@@ -1,0 +1,321 @@
+{
+   "config":{
+      "codigo":"BFCON_000",
+      "mensaje":"Ejecucion exitosa",
+      "httpStatus":200
+   },
+   "body":[
+      {
+         "id":259,
+         "nombre":"Buin",
+         "valor":"Buin",
+         "alias":"BUIN"
+      },
+      {
+         "id":260,
+         "nombre":"Calera De Tango",
+         "valor":"Calera De Tango",
+         "alias":"CALERA DE TANGO"
+      },
+      {
+         "id":261,
+         "nombre":"Paine",
+         "valor":"Paine",
+         "alias":"PAINE"
+      },
+      {
+         "id":262,
+         "nombre":"Colina",
+         "valor":"Colina",
+         "alias":"COLINA"
+      },
+      {
+         "id":263,
+         "nombre":"Lampa",
+         "valor":"Lampa",
+         "alias":"LAMPA"
+      },
+      {
+         "id":264,
+         "nombre":"Tiltil",
+         "valor":"Tiltil",
+         "alias":"TILTIL"
+      },
+      {
+         "id":265,
+         "nombre":"Alhue",
+         "valor":"Alhue",
+         "alias":"ALHUE"
+      },
+      {
+         "id":266,
+         "nombre":"Curacavi",
+         "valor":"Curacavi",
+         "alias":"CURACAVI"
+      },
+      {
+         "id":267,
+         "nombre":"Maria Pinto",
+         "valor":"Maria Pinto",
+         "alias":"MARIA PINTO"
+      },
+      {
+         "id":268,
+         "nombre":"Melipilla",
+         "valor":"Melipilla",
+         "alias":"MELIPILLA"
+      },
+      {
+         "id":269,
+         "nombre":"San Pedro",
+         "valor":"San Pedro",
+         "alias":"SAN PEDRO"
+      },
+      {
+         "id":270,
+         "nombre":"Pirque",
+         "valor":"Pirque",
+         "alias":"PIRQUE"
+      },
+      {
+         "id":271,
+         "nombre":"Puente Alto",
+         "valor":"Puente Alto",
+         "alias":"PUENTE ALTO"
+      },
+      {
+         "id":272,
+         "nombre":"San Jose De Maipo",
+         "valor":"San Jose De Maipo",
+         "alias":"SAN JOSE DE MAIPO"
+      },
+      {
+         "id":273,
+         "nombre":"San Bernardo",
+         "valor":"San Bernardo",
+         "alias":"SAN BERNARDO"
+      },
+      {
+         "id":274,
+         "nombre":"Cerrillos",
+         "valor":"Cerrillos",
+         "alias":"CERRILLOS"
+      },
+      {
+         "id":275,
+         "nombre":"Cerro Navia",
+         "valor":"Cerro Navia",
+         "alias":"CERRO NAVIA"
+      },
+      {
+         "id":276,
+         "nombre":"Conchali",
+         "valor":"Conchali",
+         "alias":"CONCHALI"
+      },
+      {
+         "id":277,
+         "nombre":"El Bosque",
+         "valor":"El Bosque",
+         "alias":"EL BOSQUE"
+      },
+      {
+         "id":278,
+         "nombre":"Estacion Central",
+         "valor":"Estacion Central",
+         "alias":"ESTACION CENTRAL"
+      },
+      {
+         "id":279,
+         "nombre":"Huechuraba",
+         "valor":"Huechuraba",
+         "alias":"HUECHURABA"
+      },
+      {
+         "id":280,
+         "nombre":"Independencia",
+         "valor":"Independencia",
+         "alias":"INDEPENDENCIA"
+      },
+      {
+         "id":281,
+         "nombre":"La Cisterna",
+         "valor":"La Cisterna",
+         "alias":"LA CISTERNA"
+      },
+      {
+         "id":282,
+         "nombre":"La Florida",
+         "valor":"La Florida",
+         "alias":"LA FLORIDA"
+      },
+      {
+         "id":283,
+         "nombre":"La Granja",
+         "valor":"La Granja",
+         "alias":"LA GRANJA"
+      },
+      {
+         "id":284,
+         "nombre":"La Pintana",
+         "valor":"La Pintana",
+         "alias":"LA PINTANA"
+      },
+      {
+         "id":285,
+         "nombre":"La Reina",
+         "valor":"La Reina",
+         "alias":"LA REINA"
+      },
+      {
+         "id":286,
+         "nombre":"Las Condes",
+         "valor":"Las Condes",
+         "alias":"LAS CONDES"
+      },
+      {
+         "id":287,
+         "nombre":"Lo Barnechea",
+         "valor":"Lo Barnechea",
+         "alias":"LO BARNECHEA"
+      },
+      {
+         "id":288,
+         "nombre":"Lo Espejo",
+         "valor":"Lo Espejo",
+         "alias":"LO ESPEJO"
+      },
+      {
+         "id":289,
+         "nombre":"Lo Prado",
+         "valor":"Lo Prado",
+         "alias":"LO PRADO"
+      },
+      {
+         "id":290,
+         "nombre":"Macul",
+         "valor":"Macul",
+         "alias":"MACUL"
+      },
+      {
+         "id":291,
+         "nombre":"Maipu",
+         "valor":"Maipu",
+         "alias":"MAIPU"
+      },
+      {
+         "id":292,
+         "nombre":"Nunoa",
+         "valor":"Nunoa",
+         "alias":"NUNOA"
+      },
+      {
+         "id":293,
+         "nombre":"Pedro Aguirre Cerda",
+         "valor":"Pedro Aguirre Cerda",
+         "alias":"PEDRO AGUIRRE CERDA"
+      },
+      {
+         "id":294,
+         "nombre":"Penalolen",
+         "valor":"Penalolen",
+         "alias":"PENALOLEN"
+      },
+      {
+         "id":295,
+         "nombre":"Providencia",
+         "valor":"Providencia",
+         "alias":"PROVIDENCIA"
+      },
+      {
+         "id":296,
+         "nombre":"Pudahuel",
+         "valor":"Pudahuel",
+         "alias":"PUDAHUEL"
+      },
+      {
+         "id":297,
+         "nombre":"Quilicura",
+         "valor":"Quilicura",
+         "alias":"QUILICURA"
+      },
+      {
+         "id":298,
+         "nombre":"Quinta Normal",
+         "valor":"Quinta Normal",
+         "alias":"QUINTA NORMAL"
+      },
+      {
+         "id":299,
+         "nombre":"Recoleta",
+         "valor":"Recoleta",
+         "alias":"RECOLETA"
+      },
+      {
+         "id":300,
+         "nombre":"Renca",
+         "valor":"Renca",
+         "alias":"RENCA"
+      },
+      {
+         "id":301,
+         "nombre":"San Joaquin",
+         "valor":"San Joaquin",
+         "alias":"SAN JOAQUIN"
+      },
+      {
+         "id":302,
+         "nombre":"San Miguel",
+         "valor":"San Miguel",
+         "alias":"SAN MIGUEL"
+      },
+      {
+         "id":303,
+         "nombre":"San Ramon",
+         "valor":"San Ramon",
+         "alias":"SAN RAMON"
+      },
+      {
+         "id":304,
+         "nombre":"Santiago",
+         "valor":"Santiago",
+         "alias":"SANTIAGO"
+      },
+      {
+         "id":305,
+         "nombre":"Vitacura",
+         "valor":"Vitacura",
+         "alias":"VITACURA"
+      },
+      {
+         "id":306,
+         "nombre":"El Monte",
+         "valor":"El Monte",
+         "alias":"EL MONTE"
+      },
+      {
+         "id":307,
+         "nombre":"Isla De Maipo",
+         "valor":"Isla De Maipo",
+         "alias":"ISLA DE MAIPO"
+      },
+      {
+         "id":308,
+         "nombre":"Padre Hurtado",
+         "valor":"Padre Hurtado",
+         "alias":"PADRE HURTADO"
+      },
+      {
+         "id":309,
+         "nombre":"Penaflor",
+         "valor":"Penaflor",
+         "alias":"PENAFLOR"
+      },
+      {
+         "id":310,
+         "nombre":"Talagante",
+         "valor":"Talagante",
+         "alias":"TALAGANTE"
+      }
+   ]
+}

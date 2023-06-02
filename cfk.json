@@ -1,0 +1,49 @@
+{
+    "cfk": [
+        {
+            "title": "como levantar el front",
+            "url": "test.localhost.cl",
+            "date": "November 2021",
+            "content": "Angular es un framework de desarrollo para JavaScript creado por Google para crear single page application (SPA), o aplicaciones de página única. Es uno de los frameworks más populares para desarrollar aplicaciones modernas y escalables en el lado del cliente.",
+            "content_length": 90,
+            "content_tokens": 99,
+            "embedding": []
+        },
+        {
+            "title": "cual es el front publico",
+            "url": "test2.localhost.cl",
+            "date": "November 2021",
+            "content": "Thanks to the Cambridge Union for inviting me, and to Trevor Blackwell, Jessica Livingston, and Robert Morris for reading drafts of this.",
+            "content_length": 90,
+            "content_tokens": 99,
+            "embedding": []
+        },
+        {
+            "title": "como levantar el backend",
+            "url": "test3.localhost.cl",
+            "date": "November 2021",
+            "content": "Thanks to the Cambridge Union for inviting me, and to Trevor Blackwell, Jessica Livingston, and Robert Morris for reading drafts of this.",
+            "content_length": 90,
+            "content_tokens": 99,
+            "embedding": []
+        },
+        {
+            "title": "que es un api connect",
+            "url": "test4.localhost.cl",
+            "date": "November 2021",
+            "content": "Thanks to the Cambridge Union for inviting me, and to Trevor Blackwell, Jessica Livingston, and Robert Morris for reading drafts of this.",
+            "content_length": 90,
+            "content_tokens": 99,
+            "embedding": []
+        },
+        {
+            "title": "como levantar un micro servicio?",
+            "url": "test5.localhost.cl",
+            "date": "November 2021",
+            "content": "Thanks to the Cambridge Union for inviting me, and to Trevor Blackwell, Jessica Livingston, and Robert Morris for reading drafts of this.",
+            "content_length": 90,
+            "content_tokens": 99,
+            "embedding": []
+        }
+    ]
+}
