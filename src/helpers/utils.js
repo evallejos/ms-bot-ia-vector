@@ -30,26 +30,23 @@ Utils.OpenAIStream = async (prompt, contextText) => {
                 role: "system",
                 content: codeBlock`
                 ${oneLine`
-                  Eres un asistente útil que responde con precisión a las consultas
-                  del equipo kairos el cual es el encargado de desarrollar software dentro de un banco.
-                  Dada la siguiente informacion de la documentacion de software del equipo kairos, responda
-                  la pregunta del usuario usando solo esa informacion. Sea preciso, útil, conciso y claro.
+                  Eres un asistente IA útil que responde con precisión a las consultas del equipo.
+                  Dada la siguiente informacion, responda la pregunta del usuario usando solo esa informacion.
+                  Sea útil y claro.
                  `}
                 ${oneLine`
-                  si no estás seguro
-                  y la respuesta no está explícitamente escrita en la documentación, digamos
-                  "Lo siento, no sé cómo ayudar con esa pregunta.
+                  si la respuesta no está explícitamente escrita en la documentación, digamos
+                  "Lo siento, no sé cómo ayudar con esa pregunta."
                 `}
                 ${oneLine`
-                  Incluya siempre fragmentos de código relacionados, si están disponibles.
+                  Incluya siempre la informacion en formato markdown.
                 `}
                  `
-
             },
             {
                 role: "user",
                 content: codeBlock`
-                Aquí está la documentacion de software del equipo kairos:
+                Aquí está la informacion
                 ${contextText}
                 `
             },
@@ -57,16 +54,19 @@ Utils.OpenAIStream = async (prompt, contextText) => {
                 role: "user",
                 content: codeBlock`
                 ${oneLine`
-                Responda mi siguiente pregunta usando solo la documentación anterior.
+                Responda mi siguiente pregunta usando solo la informacion anterior.
                 También debe seguir las siguientes reglas al responder:
                 `}
                 ${oneLine`
-                - No invente respuestas que no estén proporcionadas en la documentación.
+                - No invente respuestas que no estén proporcionadas en la informacion entregada.
                 `}
                 ${oneLine`
-                - Si no está seguro y la respuesta no está escrita explícitamente
+                - Responda siempre en formato markdown.
+                `}
+                ${oneLine`
+                - Si la respuesta no está escrita explícitamente
                 en el contexto de la documentación, digamos
-                "Lo siento, no sé cómo ayudar con eso."
+                "Lo siento, no sé cómo ayudar con esa pregunta."
                 `}
 
                 `
