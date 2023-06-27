@@ -1,9 +1,18 @@
 const fs = require("fs");
 const { Configuration, OpenAIApi } = require("openai");
+const { OpenAI } = require("langchain/llms/openai");
 const str = require('@supercharge/strings');
 const fetch = require("node-fetch");
 const { oneLine, codeBlock } = require("common-tags");
 const Utils = {};
+const model = new OpenAI(
+                            { 
+                            openAIApiKey: process.env.OPENAI_API_KEY,
+                            temperature: 0,
+                            modelName: "gpt-3.5-turbo",
+                            maxTokens : 1024
+                            }
+                        );
 
 const configuration = new Configuration({
     apiKey: process.env.OPENAI_API_KEY,
@@ -34,12 +43,22 @@ Utils.OpenAIStream = async (prompt, contextText) => {
                   Dada la siguiente informacion, responda la pregunta del usuario usando solo esa informacion.
                   Sea útil y claro.
                  `}
-                ${oneLine`
-                  si la respuesta no está explícitamente escrita en la documentación, digamos
-                  "Lo siento, no sé cómo ayudar con esa pregunta."
+                 ${oneLine`
+                  Incluya siempre la informacion en formato markdown.
                 `}
                 ${oneLine`
-                  Incluya siempre la informacion en formato markdown.
+                  si la respuesta no está explícitamente escrita en la documentación, No entregues link de referencias
+                  y tampoco informacion de donde buscar. digamos
+                  "Lo siento, no sé cómo ayudar con esa pregunta."
+                  
+                `}
+                ${oneLine`
+                  Si el usuario te saluda, presentate con el nombre de Robo-Z un agente IA de apoyo, se amable y coordial.
+                `}
+                ${oneLine`
+                  Si pregunta por las guias que tienes disponibles, muestrale en una lista las 
+                  siguientes guias las cuales estan separadas por coma
+                  como instalar angular, como instalar sprint boot, clean code.
                 `}
                  `
             },
@@ -61,11 +80,12 @@ Utils.OpenAIStream = async (prompt, contextText) => {
                 - No invente respuestas que no estén proporcionadas en la informacion entregada.
                 `}
                 ${oneLine`
-                - Responda siempre en formato markdown.
+                - Responda siempre en formato markdown la respuesta a mi pregunta.
                 `}
                 ${oneLine`
                 - Si la respuesta no está escrita explícitamente
-                en el contexto de la documentación, digamos
+                en el contexto de la documentación No entregue link de referencias
+                y tampoco informacion de donde buscar, digamos
                 "Lo siento, no sé cómo ayudar con esa pregunta."
                 `}
 

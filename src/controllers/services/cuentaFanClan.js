@@ -94,7 +94,7 @@ PublicFanClan.search = async (req, res) => {
   }
 
   const respBot = await Utils.OpenAIStream(sanitizedQuery, contextText);
-
+  const resp = data.length > 0 ? {metadata : respBot, isMarkdown : true} : {metadata : respBot, isMarkdown : false}
   res.setHeader("Content-Type", "application/json");
   res.setHeader("X-BCH-Authorization", "abc");
   res.setHeader("X_IBM_Client_Id", "714ce0f4575e988c4a05b5f9ceaf7c17");
@@ -104,7 +104,7 @@ PublicFanClan.search = async (req, res) => {
   res.setHeader('Access-Control-Allow-Headers', 'Authorization,X-API-KEY, Origin, X-Requested-With, Content-Type, Accept, Access-Control-Allow-Request-Method');
 
   res.status(200);
-  res.json(respBot);
+  res.json(resp);
 
 };
 
