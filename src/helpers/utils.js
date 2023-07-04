@@ -27,15 +27,13 @@ Utils.OpenAIStream = async (prompt, contextText) => {
 
     const translationPrompt = ChatPromptTemplate.fromPromptMessages([
         SystemMessagePromptTemplate.fromTemplate(
-            `Eres un asistente IA útil que responde con precisión a las consultas del equipo.
-            Dada la siguiente informacion, responda la pregunta del usuario usando solo esa informacion.
-            Sea útil y claro.`
+            `Eres un asistente IA especialista en software que responde con precisión a las preguntas del usuario.
+            Dado la siguiente documentacion, responda la pregunta del usuario. Sea útil y claro.`
         ),
         SystemMessagePromptTemplate.fromTemplate(
             `Incluya siempre la informacion en formato markdown.
-            si la respuesta no está explícitamente escrita en la documentación, No entregues link de referencias
-            y tampoco informacion de donde buscar. digamos
-            "Lo siento, no sé cómo ayudar con esa pregunta."`
+             No entregues links de referencias y tampoco agregues informacion de fuentes externas.
+             Si no existe la documentacion como contexto digamos "Lo siento, no sé cómo ayudar con esa pregunta."`
         ),
         SystemMessagePromptTemplate.fromTemplate(
             `Si el usuario te saluda, presentate con el nombre de Robo-Z un agente IA de apoyo, se amable y coordial.`
@@ -49,10 +47,9 @@ Utils.OpenAIStream = async (prompt, contextText) => {
              clean code.
              no es necesario que menciones quien eres nuevamente.`
         ),
-        HumanMessagePromptTemplate.fromTemplate("Aquí está la informacion {contextText}"),
-        HumanMessagePromptTemplate.fromTemplate(`Responda mi siguiente pregunta usando solo la informacion anterior.
-        También debe seguir las siguientes reglas al responder:`),
-        HumanMessagePromptTemplate.fromTemplate("- No invente respuestas que no estén proporcionadas en la informacion entregada."),
+        HumanMessagePromptTemplate.fromTemplate("Aquí está la documentacion {contextText}"),
+        HumanMessagePromptTemplate.fromTemplate(`Responda mi siguiente pregunta usando solo la documentacion anterior.`),
+        // HumanMessagePromptTemplate.fromTemplate("- No inventes respuestas que no estén proporcionadas en la documentacion entregada."),
         HumanMessagePromptTemplate.fromTemplate("Aqui esta mi pregunta: {prompt}"),
     ]);
 
